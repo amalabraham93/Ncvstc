@@ -1,0 +1,50 @@
+/* ═══════════════════════════════════════════
+   DESIGN SYSTEM — Educational Palette 
+═══════════════════════════════════════════ */
+
+$color-navy: #1B3A6B;
+$color-navy-dark: #0F2347;
+$color-navy-mid: #254F8F;
+$color-teal: #0F7B6C;
+$color-teal-light: #13A090;
+$color-teal-pale: #E6F5F3;
+$color-amber: #E8920A;
+$color-amber-dark: #C47A08;
+$color-amber-pale: #FEF3E2;
+$color-azure: #EEF4FF;
+$color-surface: #FAFBFF;
+$color-white: #ffffff;
+$color-text: #1A2340;
+$color-text-mid: #4A5568;
+$color-text-light: #718096;
+$color-border: #DDE3F0;
+$color-border-light: #EEF2FA;
+
+$shadow-sm: 0 1px 3px rgba(27, 58, 107, 0.08), 0 1px 2px rgba(27, 58, 107, 0.04);
+$shadow-md: 0 4px 16px rgba(27, 58, 107, 0.10), 0 2px 6px rgba(27, 58, 107, 0.06);
+$shadow-lg: 0 12px 40px rgba(27, 58, 107, 0.14), 0 4px 12px rgba(27, 58, 107, 0.08);
+
+$radius-sm: 6px;
+$radius-md: 10px;
+$radius-lg: 16px;
+$radius-xl: 24px;
+
+/* Mixins */
+@mixin flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin section-padding {
+    padding: clamp(48px, 7vw, 96px) 0;
+}
+
+@mixin card-hover-fx {
+    transition: all 0.25s ease;
+
+    &:hover {
+        box-shadow: $shadow-lg;
+        transform: translateY(-3px);
+    }
+}

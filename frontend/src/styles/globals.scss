@@ -1,0 +1,75 @@
+@import './variables';
+
+/* ── UTILITY CLASSES ── */
+
+.label {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: $color-teal;
+    margin-bottom: 12px;
+
+    &::before {
+        content: '';
+        width: 20px;
+        height: 2px;
+        background: $color-teal;
+        border-radius: 2px;
+    }
+}
+
+.title {
+    font-family: 'Lora', serif;
+    font-size: clamp(1.6rem, 3.5vw, 2.8rem);
+    font-weight: 700;
+    color: $color-navy-dark;
+    margin-bottom: 16px;
+    line-height: 1.2;
+
+    em {
+        font-style: normal;
+        color: $color-amber;
+    }
+
+    span {
+        color: $color-teal;
+    }
+}
+
+.subtitle {
+    font-size: clamp(0.9rem, 1.5vw, 1.05rem);
+    color: $color-text-mid;
+    line-height: 1.8;
+    max-width: 560px;
+}
+
+/* Animations */
+@keyframes fadeUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+        transform: scale(1);
+    }
+
+    50% {
+        opacity: 0.4;
+        transform: scale(1.6);
+    }
+}

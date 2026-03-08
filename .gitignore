@@ -1,0 +1,32 @@
+# Node/Projects
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary Dev / Scraping Files
+# Excluded so the repo only contains the source code
+extract.py
+website_content.txt
+website_content.html
+website_content_clean.txt
+content.txt
+"WEBSITE CONTENT.docx"
+
+# Local Env
+.env
+.env.local
+.env.development.local
