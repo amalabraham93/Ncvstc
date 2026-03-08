@@ -15,8 +15,8 @@ export default function HomePage() {
             <QuickLinks />
             <HomeAbout />
             <HomeStats />
-            <HomePrograms />
-            <HomeOrgChart />
+            {/* <HomePrograms /> */}
+            {/* <HomeOrgChart /> */}
             <HomeContactCTA />
         </>
     );

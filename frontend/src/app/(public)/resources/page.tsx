@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     description: 'Download study materials, academic calendars, and NCVSTC prospectuses.',
 };
 
-export default function ResourcesPage() {
+export default function Resources() {
     const materials = [
         { title: "NCVSTC Academic Prospectus 2026-27", size: "4.2 MB", type: "PDF" },
         { title: "Affiliation Application Form (VTC)", size: "1.8 MB", type: "PDF" },

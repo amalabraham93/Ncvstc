@@ -39,25 +39,31 @@ export default function Navbar() {
 
                 {/* Desktop Links */}
                 <div className="hidden md:flex items-center space-x-1 lg:space-x-2">
-                    <Link href="/" className="text-sm font-bold text-[#1B3A6B] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                    <Link href="/" className="text-sm  m-0 font-bold text-[#1B3A6B] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
                         Home
                     </Link>
-                    <Link href="/about" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                    <Link href="/about" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
                         About
                     </Link>
-                    <Link href="/programs" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                    <Link href="/services" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                        Our Services
+                    </Link>
+                    <Link href="/programs" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
                         Programs
                     </Link>
-                    <Link href="/services" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Services
+                    <Link href="/resources" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                        Resources
                     </Link>
-                    <Link href="/gallery" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                    <Link href="/examination" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                        Examination
+                    </Link>
+                    <Link href="/gallery" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
                         Gallery
                     </Link>
-                    <Link href="/verify" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Verify
+                    <Link href="/verify" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                        Online Verification
                     </Link>
-                    <Link href="/contact" className="text-sm font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
+                    <Link href="/contact" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
                         Contact
                     </Link>
                 </div>
@@ -79,7 +85,7 @@ export default function Navbar() {
                                 Login
                             </Link>
                             <Link href="/register" className="text-sm font-bold px-5 py-2.5 bg-[#E8920A] text-white rounded-md hover:bg-[#C47A08] transition-colors shadow-sm hover:translate-y-[-1px]">
-                                Apply Now
+                                Registration
                             </Link>
                         </>
                     )}
