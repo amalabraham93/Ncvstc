@@ -13,6 +13,9 @@ dotenv.config();
 
 const app: Application = express();
 
+// Trust reverse proxy (crucial for Render & express-rate-limit)
+app.set('trust proxy', 1);
+
 // Security Middleware
 app.use(helmet());
 app.use(cors({
@@ -42,6 +45,11 @@ app.use('/api/courses', courseRoutes);
 // Basic route for testing
 app.get('/api/health', (req: Request, res: Response) => {
   res.status(200).json({ status: 'OK', message: 'API is running' });
+});
+
+// Root route
+app.get('/', (req: Request, res: Response) => {
+  res.status(200).send('NCVSTC API is running perfectly on Render');
 });
 
 // Global Error Handler
