@@ -4,6 +4,91 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useAuthStore } from '@/lib/store';
 
+const navLinks = [
+    { title: "Home", href: "/" },
+    {
+        title: "About the Organization",
+        subLinks: [
+            { title: "About Us", href: "/about/about-us" },
+            { title: "Vision & Mission", href: "/about/vision-mission" },
+            { title: "Organization Chart", href: "/about/organization-chart" },
+            { title: "Branches", href: "/about/branches" },
+            { title: "Director Message", href: "/about/director-message" },
+            {
+                title: "Office",
+                href: "/about/office",
+                subLinks: [
+                    { title: "State Programme Office (SPO)", href: "/about/office/spo" },
+                    { title: "District Regional Office (DRO)", href: "/about/office/dro" },
+                    { title: "Zonal Offices", href: "/about/office/zonal" },
+                ]
+            },
+        ]
+    },
+    {
+        title: "Our Service & Function",
+        subLinks: [
+            { title: "Courses", href: "/services/courses" },
+            { title: "Government Project", href: "/services/government-project" },
+            { title: "Career & Placement", href: "/services/career-placement" },
+            { title: "Certificate of Org.", href: "/services/certificate-organization" },
+        ]
+    },
+    {
+        title: "Programs & Government Initiatives",
+        subLinks: [
+            { title: "Student Dev Schemes", href: "/programs/student-schemes" },
+            { title: "Institution Dev Schemes", href: "/programs/institutional-schemes" },
+            { title: "Staff Dev Schemes", href: "/programs/staff-schemes" },
+            { title: "Vocational Initiatives", href: "/programs/vocational-initiatives" },
+            { title: "Community College", href: "/programs/community-college" },
+            { title: "Skill Dev Initiatives", href: "/programs/skill-development" },
+        ]
+    },
+    {
+        title: "Resources & Important Links",
+        subLinks: [
+            { title: "Question Bank", href: "/resources/question-bank" },
+            { title: "Syllabus", href: "/resources/syllabus" },
+            { title: "Study Materials", href: "/resources/study-materials" },
+            { title: "Student Login", href: "/login" },
+        ]
+    },
+    {
+        title: "Registration",
+        subLinks: [
+            { title: "Offline Registration", href: "/registration/offline" },
+            { title: "Online Registration", href: "/registration/online" },
+            { title: "Internship Application", href: "/registration/internship" },
+        ]
+    },
+    {
+        title: "Examination & Results",
+        subLinks: [
+            { title: "Exam Schedule", href: "/examination/schedule" },
+            { title: "Exam Center", href: "/examination/center" },
+            { title: "Result", href: "/examination/result" },
+        ]
+    },
+    {
+        title: "Online Verification",
+        subLinks: [
+            { title: "Cert Verification", href: "/verify/cert-verification" },
+            { title: "Marksheet Verification", href: "/verify/marksheet" },
+            { title: "Verify Document", href: "/verify/verify-doc" },
+            { title: "Model Certificates", href: "/verify/model-certs" },
+        ]
+    },
+    {
+        title: "Contact & Support",
+        subLinks: [
+            { title: "Contact Us", href: "/contact/contact-us" },
+            { title: "Gallery", href: "/contact/gallery" },
+            { title: "Payment Method", href: "/contact/payment-method" },
+        ]
+    }
+];
+
 export default function Navbar() {
     const pathname = usePathname();
     const { isAuthenticated, user, logout } = useAuthStore();
@@ -37,35 +122,73 @@ export default function Navbar() {
                     </div>
                 </Link>
 
-                {/* Desktop Links */}
-                <div className="hidden md:flex items-center space-x-1 lg:space-x-2">
-                    <Link href="/" className="text-sm  m-0 font-bold text-[#1B3A6B] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Home
-                    </Link>
-                    <Link href="/about" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        About
-                    </Link>
-                    <Link href="/services" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Our Services
-                    </Link>
-                    <Link href="/programs" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Programs
-                    </Link>
-                    <Link href="/resources" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Resources
-                    </Link>
-                    <Link href="/examination" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Examination
-                    </Link>
-                    <Link href="/gallery" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Gallery
-                    </Link>
-                    <Link href="/verify" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Online Verification
-                    </Link>
-                    <Link href="/contact" className="text-sm  m-0 font-bold text-[#4A5568] hover:text-[#0F7B6C] px-3 py-2 rounded-md transition-colors">
-                        Contact
-                    </Link>
+                {/* Desktop Links with Mega Dropdowns */}
+                <div className="hidden 2xl:flex items-center space-x-0.5">
+                    {navLinks.map((link, idx) => (
+                        <div key={idx} className="group relative">
+                            {link.subLinks ? (
+                                <button className="flex items-center gap-1 text-[13px] font-bold text-[#4A5568] hover:text-[#E8920A] px-2 py-6 transition-colors">
+                                    {link.title}
+                                    <svg className="w-3 h-3 transition-transform group-hover:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                                    </svg>
+                                </button>
+                            ) : (
+                                <Link href={link.href!} className="flex items-center text-[13px] font-bold text-[#4A5568] hover:text-[#E8920A] px-2 py-6 transition-colors">
+                                    {link.title}
+                                </Link>
+                            )}
+
+                            {/* Dropdown Menu */}
+                            {link.subLinks && (
+                                <div className="absolute top-[80%] left-0 w-60 bg-white shadow-xl border border-[#EEF2FA] rounded-md opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50 transform origin-top-left -translate-y-2 group-hover:translate-y-0">
+                                    <div className="py-2">
+                                        {link.subLinks.map((sub, subIdx) => (
+                                            <div key={subIdx} className="group/sub relative">
+                                                <Link
+                                                    href={sub.href || '#'}
+                                                    className="flex items-center justify-between px-4 py-2.5 text-sm text-[#4A5568] hover:bg-[#EEF4FF] hover:text-[#0F7B6C] font-medium transition-colors border-b border-gray-50 last:border-0 w-full"
+                                                >
+                                                    {sub.title}
+                                                    {sub.subLinks && (
+                                                        <svg className="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                                                        </svg>
+                                                    )}
+                                                </Link>
+
+                                                {/* Nested Dropdown */}
+                                                {sub.subLinks && (
+                                                    <div className="absolute top-0 left-full w-60 bg-white shadow-xl border border-[#EEF2FA] rounded-md opacity-0 invisible group-hover/sub:opacity-100 group-hover/sub:visible transition-all duration-200 z-50 transform origin-top-left translate-x-2 group-hover/sub:translate-x-0 ml-1">
+                                                        <div className="py-2">
+                                                            {sub.subLinks.map((deepSub, deepIdx) => (
+                                                                <Link
+                                                                    key={deepIdx}
+                                                                    href={deepSub.href}
+                                                                    className="block px-4 py-2.5 text-sm text-[#4A5568] hover:bg-[#EEF4FF] hover:text-[#0F7B6C] font-medium transition-colors border-b border-gray-50 last:border-0"
+                                                                >
+                                                                    {deepSub.title}
+                                                                </Link>
+                                                            ))}
+                                                        </div>
+                                                    </div>
+                                                )}
+                                            </div>
+                                        ))}
+                                    </div>
+                                </div>
+                            )}
+                        </div>
+                    ))}
+                </div>
+
+                {/* Mobile Menu Toggle Stub */}
+                <div className="2xl:hidden flex items-center">
+                    <button className="text-[#1B3A6B] p-2 focus:outline-none">
+                        <svg className="w-7 h-7" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                        </svg>
+                    </button>
                 </div>
 
                 {/* Actions */}
