@@ -6,74 +6,74 @@ export const metadata: Metadata = {
 };
 
 export default function VocationalInitiativesPage() {
-    const programs = [
-        {
-            sector: 'Teacher Training Education',
-            img: 'https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80',
-            courses: [
-                'Nursery Teacher Training (NTT)',
-                'Primary Teacher Training (PTT)',
-                'Early Childhood Care Education (ECCE)',
-                'Anganwadi Worker Training',
-                'Montessori Teacher Training (MTT)'
-            ]
-        },
-        {
-            sector: 'Health & Paramedical',
-            img: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80',
-            courses: [
-                'Diploma in Medical Lab Technology (DMLT)',
-                'Diploma in X-Ray & Radiology',
-                'Nursing Assistant Training',
-                'Physiotherapy Assistant',
-                'Hospital Management'
-            ]
-        },
-        {
-            sector: 'Computer & IT Skills',
-            img: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80',
-            courses: [
-                'Post Graduate Diploma in Computer Applications (PGDCA)',
-                'Diploma in Financial Accounting (Tally)',
-                'Hardware & Networking Engineering',
-                'Web Designing & Development',
-                'Data Entry Operations'
-            ]
-        },
-        {
-            sector: 'Technical & Vocational Engineering',
-            img: 'https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&q=80',
-            courses: [
-                'Electrician & Wireman Training',
-                'A/C & Refrigeration Mechanic',
-                'Plumber & Pipe Fitting',
-                'Welder (Gas & Electric)',
-                'Automobile Mechanic'
-            ]
-        },
-        {
-            sector: 'Design & Aesthetics',
-            img: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&q=80',
-            courses: [
-                'Fashion Designing & Tailoring',
-                'Beauty Parlour & Makeup Arts',
-                'Interior Designing',
-                'Textile Design',
-                'Jewellery Designing'
-            ]
-        },
-        {
-            sector: 'Agriculture & Veterinary',
-            img: 'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80',
-            courses: [
-                'Diploma in Agriculture Science',
-                'Veterinary Assistant Training',
-                'Dairy Farming & Management',
-                'Horticulture & Nursery Management',
-                'Organic Farming'
-            ]
-        }
-    ];
+    // const programs = [
+    //     {
+    //         sector: 'Teacher Training Education',
+    //         img: 'https://images.unsplash.com/photo-1577896851231-70ef18881754?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Nursery Teacher Training (NTT)',
+    //             'Primary Teacher Training (PTT)',
+    //             'Early Childhood Care Education (ECCE)',
+    //             'Anganwadi Worker Training',
+    //             'Montessori Teacher Training (MTT)'
+    //         ]
+    //     },
+    //     {
+    //         sector: 'Health & Paramedical',
+    //         img: 'https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Diploma in Medical Lab Technology (DMLT)',
+    //             'Diploma in X-Ray & Radiology',
+    //             'Nursing Assistant Training',
+    //             'Physiotherapy Assistant',
+    //             'Hospital Management'
+    //         ]
+    //     },
+    //     {
+    //         sector: 'Computer & IT Skills',
+    //         img: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Post Graduate Diploma in Computer Applications (PGDCA)',
+    //             'Diploma in Financial Accounting (Tally)',
+    //             'Hardware & Networking Engineering',
+    //             'Web Designing & Development',
+    //             'Data Entry Operations'
+    //         ]
+    //     },
+    //     {
+    //         sector: 'Technical & Vocational Engineering',
+    //         img: 'https://images.unsplash.com/photo-1581092335397-9583eb92d232?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Electrician & Wireman Training',
+    //             'A/C & Refrigeration Mechanic',
+    //             'Plumber & Pipe Fitting',
+    //             'Welder (Gas & Electric)',
+    //             'Automobile Mechanic'
+    //         ]
+    //     },
+    //     {
+    //         sector: 'Design & Aesthetics',
+    //         img: 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Fashion Designing & Tailoring',
+    //             'Beauty Parlour & Makeup Arts',
+    //             'Interior Designing',
+    //             'Textile Design',
+    //             'Jewellery Designing'
+    //         ]
+    //     },
+    //     {
+    //         sector: 'Agriculture & Veterinary',
+    //         img: 'https://images.unsplash.com/photo-1625246333195-78d9c38ad449?auto=format&fit=crop&q=80',
+    //         courses: [
+    //             'Diploma in Agriculture Science',
+    //             'Veterinary Assistant Training',
+    //             'Dairy Farming & Management',
+    //             'Horticulture & Nursery Management',
+    //             'Organic Farming'
+    //         ]
+    //     }
+    // ];
 
     return (
         <div className="bg-[#FAFBFF] min-h-screen">
@@ -98,7 +98,7 @@ export default function VocationalInitiativesPage() {
                     <p className="text-[#4A5568] max-w-2xl mx-auto mt-4">Exploring 50+ specialized vocational training areas designed for practical application and immediate employability.</p>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {/* <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {programs.map((prog, i) => (
                         <div key={i} className="bg-white rounded-xl overflow-hidden border border-[#DDE3F0] shadow-sm hover:shadow-[0_12px_40px_rgba(27,58,107,0.1)] transition-all group">
                             <div className="h-44 relative overflow-hidden">
@@ -137,7 +137,7 @@ export default function VocationalInitiativesPage() {
                             </div>
                         </div>
                     ))}
-                </div>
+                </div> */}
             </section>
         </div>
     );
