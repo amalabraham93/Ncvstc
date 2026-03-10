@@ -1,0 +1,354 @@
+// ============================================================
+//  Navbar Styles — NCVSTC
+//  Breakpoint: desktop = ≥992px | mobile = <992px
+// ============================================================
+
+// ---------- Variables ----------
+$navy:        #0F2347;
+$navy-mid:    #1B3A6B;
+$teal:        #0F7B6C;
+$amber:       #E8920A;
+$amber-dark:  #C47A08;
+$text-main:   #4A5568;
+$text-muted:  #718096;
+$border:      #EEF2FA;
+$hover-bg:    #EEF4FF;
+$white:       #ffffff;
+$shadow-sm:   0 1px 4px rgba(0,0,0,.07);
+$shadow-lg:   0 8px 28px rgba(0,0,0,.13);
+$radius:      8px;
+$radius-sm:   6px;
+$transition:  200ms ease;
+$nav-h:       80px;
+
+// ---------- Mixins ----------
+@mixin flex-center { display: flex; align-items: center; }
+@mixin dropdown-base {
+  position: absolute;
+  background: $white;
+  border: 1px solid $border;
+  border-radius: $radius;
+  box-shadow: $shadow-lg;
+  width: 230px;
+  padding: 6px 0;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-6px);
+  transition: opacity $transition, visibility $transition, transform $transition;
+  z-index: 1000;
+}
+
+// ============================================================
+//  Nav Root
+// ============================================================
+.navbar {
+  width: 100%;
+  background: $white;
+  border-bottom: 1px solid $border;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  box-shadow: $shadow-sm;
+}
+
+.inner {
+  @include flex-center;
+  justify-content: space-between;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 24px;
+  height: $nav-h;
+  gap: 12px;
+}
+
+// ============================================================
+//  Logo
+// ============================================================
+.logo {
+  @include flex-center;
+  gap: 10px;
+  text-decoration: none;
+  flex-shrink: 0;
+
+  &:hover .logoIcon { box-shadow: 0 4px 16px rgba($navy-mid, .3); }
+  &:hover .logoIcon::after { opacity: .12; }
+}
+
+.logoIcon {
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(135deg, $navy, $navy-mid);
+  border-radius: $radius-sm;
+  @include flex-center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba($navy,.25);
+  position: relative;
+  overflow: hidden;
+  transition: box-shadow $transition;
+  flex-shrink: 0;
+
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: $amber;
+    opacity: 0;
+    transition: opacity $transition;
+  }
+
+  span {
+    font-family: Georgia, serif;
+    color: $white;
+    font-weight: 700;
+    font-size: 20px;
+    letter-spacing: .06em;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.logoText {
+  display: flex;
+  flex-direction: column;
+  line-height: 1;
+}
+
+.logoName {
+  font-family: Georgia, serif;
+  font-weight: 700;
+  font-size: 18px;
+  color: $navy;
+  letter-spacing: .04em;
+}
+
+.logoSub {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: $teal;
+  margin-top: 3px;
+}
+
+// ============================================================
+//  Desktop Nav Links  (visible ≥ 992px)
+// ============================================================
+.desktopNav {
+  @include flex-center;
+  gap: 2px;
+  flex: 1;
+  justify-content: center;
+
+  // Hidden below 992 px
+  @media (max-width: 991px) {
+    display: none;
+  }
+}
+
+// Nav item wrapper (handles hover group)
+.navItem {
+  position: relative;
+
+  &:hover > .navBtn,
+  &:hover > .navLink {
+    color: $amber;
+  }
+
+  &:hover > .dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+}
+
+// Shared button / link style
+%nav-text {
+  font-size: 13px;
+  font-weight: 700;
+  color: $text-main;
+  padding: 8px 10px;
+  transition: color $transition;
+  white-space: nowrap;
+  background: none;
+  border: none;
+  cursor: pointer;
+  @include flex-center;
+  gap: 4px;
+  border-radius: $radius-sm;
+  text-decoration: none;
+
+  &:hover { color: $amber; }
+}
+
+.navBtn  { @extend %nav-text; }
+.navLink { @extend %nav-text; }
+
+.chevron {
+  width: 12px;
+  height: 12px;
+  transition: transform $transition;
+  flex-shrink: 0;
+
+  .navItem:hover & { transform: rotate(180deg); }
+}
+
+// ============================================================
+//  First-level Dropdown
+// ============================================================
+.dropdown {
+  @include dropdown-base;
+  top: calc(100% + 4px);
+  left: 0;
+}
+
+.dropItem {
+  position: relative;
+
+  &:hover > .dropLink { background: $hover-bg; color: $teal; }
+  &:hover > .subDropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+  }
+}
+
+.dropLink {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: $text-main;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($border, .6);
+  transition: background $transition, color $transition;
+  cursor: pointer;
+
+  &:last-child { border-bottom: none; }
+}
+
+.arrowRight {
+  width: 14px;
+  height: 14px;
+  color: #aaa;
+  flex-shrink: 0;
+}
+
+// ============================================================
+//  Nested (second-level) Dropdown
+// ============================================================
+.subDropdown {
+  @include dropdown-base;
+  top: 0;
+  left: calc(100% + 6px);
+  transform: translateX(8px);
+}
+
+.subLink {
+  display: block;
+  padding: 9px 14px;
+  font-size: 13px;
+  font-weight: 600;
+  color: $text-main;
+  text-decoration: none;
+  border-bottom: 1px solid rgba($border, .6);
+  transition: background $transition, color $transition;
+
+  &:last-child { border-bottom: none; }
+  &:hover { background: $hover-bg; color: $teal; }
+}
+
+// ============================================================
+//  Mobile Hamburger (visible < 992px)
+// ============================================================
+.hamburger {
+  display: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: $navy-mid;
+  padding: 6px;
+  border-radius: $radius-sm;
+  transition: background $transition;
+  flex-shrink: 0;
+
+  &:hover { background: $hover-bg; }
+
+  @media (max-width: 991px) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  svg { width: 26px; height: 26px; }
+}
+
+// ============================================================
+//  Actions (Login / Register / Dashboard)
+// ============================================================
+.actions {
+  @include flex-center;
+  gap: 8px;
+  flex-shrink: 0;
+}
+
+.loginBtn {
+  font-size: 13px;
+  font-weight: 700;
+  color: $navy-mid;
+  padding: 8px 14px;
+  border-radius: $radius-sm;
+  text-decoration: none;
+  transition: background $transition;
+
+  &:hover { background: $hover-bg; }
+
+  @media (max-width: 575px) { display: none; }
+}
+
+.registerBtn {
+  font-size: 13px;
+  font-weight: 700;
+  color: $white;
+  background: $amber;
+  padding: 9px 18px;
+  border-radius: $radius-sm;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba($amber, .35);
+  transition: background $transition, transform $transition, box-shadow $transition;
+
+  &:hover {
+    background: $amber-dark;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 14px rgba($amber, .4);
+  }
+}
+
+.dashboardBtn {
+  font-size: 13px;
+  font-weight: 700;
+  color: $teal;
+  padding: 8px 14px;
+  border-radius: $radius-sm;
+  text-decoration: none;
+  transition: background $transition;
+
+  &:hover { background: $hover-bg; }
+
+  @media (max-width: 575px) { display: none; }
+}
+
+.logoutBtn {
+  font-size: 13px;
+  font-weight: 700;
+  color: $text-muted;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 8px 10px;
+  border-radius: $radius-sm;
+  transition: color $transition;
+
+  &:hover { color: $amber; }
+}
