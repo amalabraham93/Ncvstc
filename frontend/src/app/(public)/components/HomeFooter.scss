@@ -1,0 +1,300 @@
+// ========================================================
+// HomeFooter.scss - Ultra Premium Responsive Footer
+// ========================================================
+
+// ===== VARIABLES =====
+$primary-bg: #0f2347;
+$secondary-bg: #0f7b6c;
+$accent: #e8920a;
+$accent-light: #13a090;
+$text-primary: #fafbff;
+$text-secondary: rgba(255, 255, 255, 0.6);
+$text-muted: rgba(255, 255, 255, 0.4);
+$border-color: rgba(255, 255, 255, 0.1);
+$transition: 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+$border-radius: 8px;
+$border-radius-lg: 12px;
+
+// ===== MIXINS =====
+@mixin flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin text-gradient($color1, $color2) {
+  background: linear-gradient(135deg, $color1, $color2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+// ===== FOOTER =====
+.footer {
+  background: $primary-bg;
+  padding: 4rem 0 2rem;
+  border-top: 6px solid $secondary-bg;
+  font-family: 'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  .footer-container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 1rem;
+
+    @media (min-width: 640px) {
+      padding: 0 1.5rem;
+    }
+
+    @media (min-width: 1024px) {
+      padding: 0 2rem;
+    }
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    margin-bottom: 3rem;
+
+    @media (min-width: 768px) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 3rem;
+    }
+
+    @media (min-width: 1024px) {
+      grid-template-columns: repeat(4, 1fr);
+      gap: 3rem;
+    }
+  }
+
+  // ===== BRAND COLUMN =====
+  .footer-brand {
+    .logo {
+      width: 5rem;
+
+      @media (min-width: 1024px) {
+        width: 6rem;
+      }
+
+      svg {
+        width: 100%;
+        height: auto;
+        filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3));
+      }
+    }
+
+    .brand-title {
+      font-family: Georgia, serif;
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: $text-primary;
+      letter-spacing: 1px;
+      margin: 0.5rem 0;
+    }
+
+    .brand-description {
+      color: $text-secondary;
+      font-size: 0.875rem;
+      line-height: 1.7;
+      margin-bottom: 1rem;
+      max-width: 280px;
+    }
+
+    .social-icons {
+      display: flex;
+      gap: 0.75rem;
+
+      a {
+        width: 2rem;
+        height: 2rem;
+        border-radius: 50%;
+        background: rgba(255, 255, 255, 0.1);
+        @include flex-center;
+        color: rgba(255, 255, 255, 0.5);
+        font-weight: 700;
+        font-size: 0.75rem;
+        transition: all $transition;
+        cursor: pointer;
+
+        &:hover {
+          background: $accent;
+          color: $text-primary;
+          transform: translateY(-2px);
+        }
+      }
+    }
+  }
+
+  // ===== LINKS COLUMN =====
+  .footer-column {
+    h5 {
+      font-size: 0.875rem;
+      font-weight: 700;
+      color: $text-primary;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+      position: relative;
+      padding-bottom: 0.5rem;
+
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 2rem;
+        height: 2px;
+        background: $secondary-bg;
+        border-radius: 1px;
+      }
+    }
+
+    ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.75rem;
+
+      li {
+        a {
+          color: $text-secondary;
+          font-size: 0.875rem;
+          text-decoration: none;
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          transition: all $transition;
+          position: relative;
+
+          &::before {
+            content: '▶';
+            font-size: 0.6rem;
+            color: $accent;
+            transition: transform $transition;
+          }
+
+          &:hover {
+            color: $accent-light;
+
+            &::before {
+              transform: translateX(4px);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  // ===== CONTACT COLUMN =====
+  .footer-contact {
+    .contact-item {
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+      color: $text-secondary;
+      font-size: 0.875rem;
+      margin-bottom: 0.75rem;
+
+      span {
+        font-size: 1.25rem;
+        margin-top: 0.125rem;
+      }
+
+      a {
+        color: $text-secondary;
+        text-decoration: none;
+        transition: color $transition;
+
+        &:hover {
+          color: $text-primary;
+        }
+      }
+    }
+
+    .support-card {
+      margin-top: 2rem;
+      padding: 1rem;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
+      text-align: left;
+
+      .support-status {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        font-size: 0.75rem;
+        font-weight: 600;
+        color: rgba(255, 255, 255, 0.8);
+        margin-bottom: 0.25rem;
+
+        &::before {
+          content: '';
+          width: 0.5rem;
+          height: 0.5rem;
+          border-radius: 50%;
+          background: #10b981;
+          animation: pulse 2s infinite;
+        }
+      }
+
+      .support-hours {
+        font-size: 0.625rem;
+        color: $text-muted;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+    }
+  }
+
+  // ===== BOTTOM BAR =====
+  .footer-bottom {
+    padding-top: 2rem;
+    border-top: 1px solid $border-color;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .copyright {
+      color: $text-muted;
+      font-size: 0.75rem;
+      text-align: center;
+
+      @media (min-width: 768px) {
+        text-align: left;
+      }
+    }
+
+    .certifications {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+
+      span {
+        color: $text-muted;
+        font-size: 0.75rem;
+      }
+    }
+  }
+}
+
+// ===== ANIMATIONS =====
+@keyframes pulse {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+}

@@ -1,74 +1,213 @@
-import { Metadata } from 'next';
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: 'Vision & Mission | NCVSTC',
-    description: 'The Vision and Mission of NCVSTC.',
+  title: "Vision & Commitment | NCVSTC",
+  description:
+    "Learn about NCVSTC's Vision, Commitment, and dedication towards modern vocational education and skill development.",
 };
 
 export default function VisionMissionPage() {
-    return (
-        <div className="bg-white">
-            <section className="bg-[#0F2347] relative py-20 px-4 overflow-hidden">
-                <div className="max-w-[1280px] mx-auto text-center relative z-10">
-                    <h1 className="font-serif text-4xl md:text-5xl lg:text-5xl font-bold text-white mb-4">
-                        Vision & <span className="text-[#13A090]">Mission</span>
-                    </h1>
-                </div>
-            </section>
+  const commitments = [
+    {
+      icon: "🏭",
+      title: "Industry Integrated Learning",
+      description:
+        "Promote practical and industry-oriented education that prepares students for real-world careers.",
+    },
+    {
+      icon: "💼",
+      title: "Employability Skills",
+      description:
+        "Develop technical knowledge, communication, leadership, and workplace readiness for every learner.",
+    },
+    {
+      icon: "🚀",
+      title: "Innovation & Entrepreneurship",
+      description:
+        "Encourage innovation, creativity, entrepreneurship, and lifelong learning for sustainable career growth.",
+    },
+    {
+      icon: "🌍",
+      title: "Equal Learning Opportunities",
+      description:
+        "Provide accessible vocational education for students across rural and urban communities.",
+    },
+    {
+      icon: "💻",
+      title: "Technology-Driven Education",
+      description:
+        "Integrate modern technologies, digital learning, and quality training systems into every program.",
+    },
+    {
+      icon: "🎓",
+      title: "Future-Ready Professionals",
+      description:
+        "Create responsible, ethical, skilled, and globally competitive professionals.",
+    },
+  ];
 
-            <section className="bg-[#FAFBFF] py-16 md:py-20 min-h-screen">
-                <div className="max-w-[1280px] mx-auto px-4 lg:px-8">
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-                        {/* Vision Card */}
-                        <div className="bg-white border border-[#DDE3F0] rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all h-full">
-                            <div className="w-16 h-16 bg-[#E6F5F3] rounded-xl flex items-center justify-center mb-6">
-                                <span className="text-3xl">👁️</span>
-                            </div>
-                            <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-6">Our Vision</h3>
-                            <ul className="space-y-4">
-                                {[
-                                    "Studying development trends in the labour market and preparation of occupation profiles",
-                                    "Development of methodologies and modern, module-based education programmes",
-                                    "Monitoring education programmes and evaluation of final examinations",
-                                    "Training and improvement of teachers and mentors in vocational education",
-                                    "Stimulation and coordination of innovation projects in vocational schools",
-                                    "Development of modern education tools and technology",
-                                    "Participation in professional organisations networks",
-                                    "Promotion and encouragement of vocational education"
-                                ].map((item, i) => (
-                                    <li key={i} className="flex gap-3">
-                                        <span className="text-[#0F7B6C] font-bold">•</span>
-                                        <span className="text-md text-[#4A5568]">{item}</span>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
+  return (
+    <div className="bg-white">
+      {/* Hero Section */}
+      <section className="relative overflow-hidden bg-[#0F2347] py-24 px-4">
+        <div className="absolute -top-24 -right-24 w-80 h-80 rounded-full bg-[#13A090]/20 blur-3xl"></div>
+        <div className="absolute -bottom-24 -left-24 w-80 h-80 rounded-full bg-white/10 blur-3xl"></div>
 
-                        {/* Mission Card */}
-                        <div className="bg-white border border-[#DDE3F0] rounded-2xl p-8 shadow-lg hover:shadow-xl transition-all h-full">
-                            <div className="w-16 h-16 bg-[#FEF5E6] rounded-xl flex items-center justify-center mb-6">
-                                <span className="text-3xl">🎯</span>
-                            </div>
-                            <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-6">Our Mission</h3>
-                            <ul className="space-y-4">
-                                {[
-                                    "To develop strategic and simplified texts in formal and informal education",
-                                    "To become the reference point for International and National Networks",
-                                    "To establish educational and consulting centre for educators based on lifelong learning",
-                                    "To establish a national centre for acknowledging informal knowledge",
-                                    "To assure quality in vocational and technical education for student development",
-                                    "To establish a network designed to develop and promote vocational education"
-                                ].map((item, i) => (
-                                    <li key={i} className="flex gap-3">
-                                        <span className="text-[#E8920A] font-bold">•</span>
-                                        <span className="text-md text-[#4A5568]">{item}</span>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
+        <div className="relative z-10 max-w-7xl mx-auto text-center">
+          <span className="inline-block px-5 py-2 rounded-full bg-white/10 text-[#7FE5D8] text-sm font-semibold tracking-widest uppercase mb-6">
+            NCVSTC
+          </span>
+
+          <h1 className="font-serif text-4xl md:text-5xl lg:text-6xl font-bold text-white">
+            Vision &{" "}
+            <span className="text-[#13A090]">Commitment</span>
+          </h1>
+
+          <p className="max-w-3xl mx-auto mt-6 text-lg leading-8 text-slate-300">
+            Building a future through quality vocational education, innovation,
+            practical learning, and technology-driven skill development.
+          </p>
         </div>
-    );
+      </section>
+
+      {/* Vision & Commitment */}
+      <section className="bg-[#F8FAFC] py-20">
+        <div className="max-w-7xl mx-auto px-4">
+
+          <div className="grid lg:grid-cols-2 gap-8">
+
+            {/* Vision */}
+            <div className="bg-white rounded-3xl border border-slate-200 shadow-lg p-10 hover:shadow-xl transition duration-300">
+
+              <div className="w-16 h-16 rounded-2xl bg-[#E6F8F6] flex items-center justify-center text-3xl mb-6">
+                👁️
+              </div>
+
+              <span className="uppercase tracking-widest text-sm font-semibold text-[#13A090]">
+                Our Vision
+              </span>
+
+              <h2 className="font-serif text-3xl font-bold text-[#0F2347] mt-3 mb-6">
+                Empowering Future Professionals Through Skill-Based Education
+              </h2>
+
+              <p className="text-gray-600 leading-8 text-lg">
+                NCVSTC envisions becoming a leading vocational education
+                institution that transforms learners into highly skilled,
+                responsible, and globally competitive professionals through
+                innovation, practical training, technology integration, and
+                industry collaboration.
+              </p>
+
+            </div>
+
+            {/* Commitment */}
+            <div className="relative overflow-hidden rounded-3xl bg-[#0F2347] shadow-lg p-10 text-white">
+
+              <div className="absolute -right-16 -top-16 w-56 h-56 rounded-full bg-[#13A090]/20"></div>
+              <div className="absolute -left-10 -bottom-10 w-40 h-40 rounded-full bg-white/10"></div>
+
+              <div className="relative z-10">
+
+                <div className="w-16 h-16 rounded-2xl bg-white/10 flex items-center justify-center text-3xl mb-6">
+                  🤝
+                </div>
+
+                <span className="uppercase tracking-widest text-sm font-semibold text-[#7FE5D8]">
+                  Our Commitment
+                </span>
+
+                <h2 className="font-serif text-3xl font-bold mt-3 mb-6">
+                  Dedicated to Quality Vocational Education
+                </h2>
+
+                <p className="text-slate-300 leading-8 text-lg">
+                  NCVSTC is committed to delivering modern,
+                  technology-driven, and skill-focused education that prepares
+                  students to meet global employment standards and emerging
+                  industry demands. By integrating innovation, quality training,
+                  and professional mentorship, we continue contributing towards
+                  national skill development and sustainable career growth.
+                </p>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+      </section>
+
+      {/* Key Commitments */}
+      <section className="py-20 bg-white">
+
+        <div className="max-w-7xl mx-auto px-4">
+
+          <div className="text-center mb-14">
+
+            <span className="uppercase tracking-widest text-sm font-semibold text-[#13A090]">
+              What We Focus On
+            </span>
+
+            <h2 className="font-serif text-4xl md:text-5xl font-bold text-[#0F2347] mt-4">
+              Our Key Commitments
+            </h2>
+
+            <p className="max-w-3xl mx-auto mt-5 text-gray-600 leading-8">
+              We strive to provide learners with practical knowledge,
+              technology-driven education, industry exposure, and lifelong
+              opportunities for professional success.
+            </p>
+
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            {commitments.map((item, index) => (
+              <div
+                key={index}
+                className="group rounded-3xl border border-slate-200 bg-white p-8 shadow-sm hover:-translate-y-2 hover:shadow-xl transition duration-300"
+              >
+                <div className="w-16 h-16 rounded-2xl bg-[#F2FBFA] flex items-center justify-center text-4xl mb-6 group-hover:scale-110 transition">
+                  {item.icon}
+                </div>
+
+                <h3 className="text-2xl font-bold text-[#0F2347] mb-4">
+                  {item.title}
+                </h3>
+
+                <p className="text-gray-600 leading-7">
+                  {item.description}
+                </p>
+              </div>
+            ))}
+
+          </div>
+
+        </div>
+
+      </section>
+
+      {/* Bottom CTA */}
+      <section className="bg-[#0F2347] py-20 px-4">
+
+        <div className="max-w-5xl mx-auto text-center">
+
+          <h2 className="font-serif text-4xl font-bold text-white mb-6">
+            Building Skills for a Better Tomorrow
+          </h2>
+
+          <p className="text-slate-300 text-lg leading-8 max-w-3xl mx-auto">
+            Through technology-driven education, quality training systems,
+            practical learning, and professional mentorship, NCVSTC empowers
+            learners with the confidence and skills needed to succeed in today's
+            competitive global workforce.
+          </p>
+
+        </div>
+
+      </section>
+    </div>
+  );
 }

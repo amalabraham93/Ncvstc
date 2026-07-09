@@ -1,117 +1,269 @@
-import { Metadata } from 'next';
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-    title: 'Career & Placement | NCVSTC',
+  title: "Career Development & Placement | NCVSTC",
+  description:
+    "NCVSTC Career Development & Placement Support provides career guidance, internships, apprenticeships, placement assistance, and industry exposure.",
 };
 
 export default function CareerPlacementPage() {
-    return (
-        <div className="bg-white min-h-screen">
-            <section className="bg-[#0F2347] relative py-20 px-4 overflow-hidden">
-                <div className="max-w-[1280px] mx-auto text-center relative z-10">
-                    <h1 className="font-serif text-4xl md:text-5xl font-bold text-white mb-4">
-                        Career & <span className="text-[#13A090]">Placement</span>
-                    </h1>
-                </div>
-            </section>
+  const services = [
+    {
+      icon: "🎯",
+      title: "Career Guidance",
+      description:
+        "Professional career counseling to help students identify suitable career opportunities and growth paths.",
+    },
+    {
+      icon: "💼",
+      title: "Placement Assistance",
+      description:
+        "Dedicated placement support connecting students with reputed companies across multiple industries.",
+    },
+    {
+      icon: "🏢",
+      title: "Internship Opportunities",
+      description:
+        "Industry internships that provide practical exposure and real-world work experience.",
+    },
+    {
+      icon: "🛠️",
+      title: "Apprenticeship Programmes",
+      description:
+        "Hands-on apprenticeship training designed to improve technical competency and workplace readiness.",
+    },
+    {
+      icon: "🌐",
+      title: "Industry Exposure",
+      description:
+        "Industrial visits, workshops, seminars, and interactions with professionals to understand industry trends.",
+    },
+    {
+      icon: "🚀",
+      title: "Skill Development",
+      description:
+        "Continuous technical, communication, leadership, and employability skill enhancement programmes.",
+    },
+  ];
 
-            <section className="py-16 md:py-20 max-w-[1280px] mx-auto px-4 lg:px-8">
-                <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
-                    <div>
-                        <div className="inline-flex items-center gap-2 text-xs font-bold tracking-[0.1em] uppercase text-[#0F7B6C] mb-4">
-                            <div className="w-6 h-0.5 bg-[#0F7B6C]"></div>
-                            Career Guidance
-                        </div>
-                        <h2 className="font-serif text-3xl font-bold text-[#0F2347] mb-6">
-                            Career & Placement Cell
-                        </h2>
-                        <p className="text-[#4A5568] mb-6 leading-relaxed">
-                            The Career & Placement Cell organizes qualitative training sessions as per industry requirements to equip students with the necessary skillset. Sessions focus on soft skills, Corporate Grooming, Etiquettes, and career guidance tailored to bridge the classroom-corporate gap.
-                        </p>
-                        <div className="bg-[#FAFBFF] border border-[#DDE3F0] rounded-xl p-6 shadow-sm">
-                            <h3 className="font-bold text-[#0F2347] mb-4">Objectives:</h3>
-                            <ul className="space-y-3">
-                                {[
-                                    "Develop recruitment strategies attracting professional institutions",
-                                    "Counsel students and provide employment-readiness services",
-                                    "Cultivate interest and professionalism in students"
-                                ].map((obj, i) => (
-                                    <li key={i} className="flex gap-3 text-sm text-[#4A5568]">
-                                        <span className="text-[#0F7B6C] font-bold">•</span>
-                                        {obj}
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                    </div>
+  const process = [
+    "Student Registration",
+    "Career Counseling",
+    "Skill Assessment",
+    "Training & Workshops",
+    "Interview Preparation",
+    "Placement Support",
+  ];
 
-                    <div className="bg-[#0F2347] rounded-2xl p-8 text-white shadow-lg">
-                        <h3 className="font-serif text-2xl font-bold mb-6 text-[#E8920A]">Assistance Offered</h3>
-                        <ul className="space-y-5">
-                            {[
-                                "Students receive targeted Career Guidance and Placement Preparation",
-                                "Students are assigned interviews with prospective employers based on skill levels",
-                                "The Cell liaises with hiring organizations until active placement succeeds",
-                                "Negotiates for best terms and conditions on behalf of prospective employees"
-                            ].map((item, i) => (
-                                <li key={i} className="flex gap-4">
-                                    <span className="w-8 h-8 bg-[rgba(232,146,10,0.2)] rounded-full flex items-center justify-center text-[#E8920A] text-md font-bold shrink-0">
-                                        {i + 1}
-                                    </span>
-                                    <span className="text-white/80 text-md leading-relaxed">{item}</span>
-                                </li>
-                            ))}
-                        </ul>
-                    </div>
-                </div>
+  return (
+    <div className="bg-white">
 
-                {/* Entrepreneurship Development Cell */}
-                <div className="bg-[#FAFBFF] border border-[#DDE3F0] rounded-3xl p-8 lg:p-12 mb-16 shadow-lg">
-                    <div className="w-16 h-16 bg-[#FEF5E6] rounded-2xl flex items-center justify-center mb-6 shadow-sm">
-                        <span className="text-3xl">💡</span>
-                    </div>
-                    <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
-                        <div>
-                            <h3 className="font-serif text-3xl font-bold text-[#0F2347] mb-4">Entrepreneurship Development Cell</h3>
-                            <p className="text-[#4A5568] leading-relaxed mb-6">
-                                Entrepreneurship Development Clubs sensitize the student community about the importance of industrialization, developing an entrepreneurial culture involving conducive values, norms, and traits.
-                            </p>
-                            <h4 className="font-bold text-[#0F2347] mb-3">Key Objectives:</h4>
-                            <ul className="space-y-2">
-                                {[
-                                    "Teaching income generation while learning",
-                                    "Preparation methodology for project reports",
-                                    "Identifying viable projects & obtaining bank financing",
-                                    "Deploying interaction platforms with successful entrepreneurs"
-                                ].map((obj, i) => (
-                                    <li key={i} className="flex gap-2 text-sm text-[#4A5568]">
-                                        <span className="text-[#E8920A] font-bold">•</span>
-                                        {obj}
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                        <div className="bg-white border border-[#DDE3F0] rounded-2xl p-8 shadow-sm">
-                            <h4 className="font-serif text-xl font-bold text-[#0F2347] mb-6">Main Functions:</h4>
-                            <ul className="space-y-4">
-                                {[
-                                    "Organize interactive sessions to share success stories",
-                                    "Host entrepreneurship awareness programmes & clinics",
-                                    "Provide information regarding bank financing and incentives",
-                                    "Organize industrial visits and promotional agency interactions"
-                                ].map((func, i) => (
-                                    <li key={i} className="flex gap-4">
-                                        <span className="w-6 h-6 bg-[#0F7B6C] rounded-full flex items-center justify-center text-white text-xs shrink-0 mt-0.5">
-                                            {i + 1}
-                                        </span>
-                                        <span className="text-[#4A5568] text-sm leading-relaxed">{func}</span>
-                                    </li>
-                                ))}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </section>
+      {/* Hero */}
+      <section className="relative overflow-hidden bg-[#0F2347] py-24">
+        <div className="absolute -top-24 -right-24 w-80 h-80 rounded-full bg-[#13A090]/20 blur-3xl"></div>
+        <div className="absolute -bottom-24 -left-24 w-80 h-80 rounded-full bg-white/10 blur-3xl"></div>
+
+        <div className="relative max-w-7xl mx-auto px-4 text-center">
+
+          <span className="inline-block px-5 py-2 rounded-full bg-white/10 text-[#7FE5D8] uppercase tracking-widest text-sm font-semibold mb-5">
+            Career Support
+          </span>
+
+          <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif font-bold text-white">
+            Career Development &
+            <span className="text-[#13A090]"> Placement</span>
+          </h1>
+
+          <p className="max-w-3xl mx-auto mt-6 text-lg leading-8 text-slate-300">
+            NCVSTC partners with leading industries, corporate organizations,
+            and training institutions to provide career guidance, internships,
+            skill development, and placement opportunities for every learner.
+          </p>
+
         </div>
-    );
+      </section>
+
+      {/* About */}
+      <section className="py-20 bg-[#F8FAFC]">
+
+        <div className="max-w-7xl mx-auto px-4">
+
+          <div className="grid lg:grid-cols-2 gap-12 items-center">
+
+            <div>
+
+              <span className="text-[#13A090] uppercase tracking-widest font-semibold text-sm">
+                Career Development
+              </span>
+
+              <h2 className="font-serif text-4xl font-bold text-[#0F2347] mt-3 mb-6">
+                Empowering Students for Successful Careers
+              </h2>
+
+              <p className="text-gray-600 text-lg leading-8">
+                Our Career Development & Placement Cell works continuously to
+                bridge the gap between education and employment by providing
+                professional guidance, industry exposure, practical training,
+                and placement assistance. Through strategic partnerships with
+                leading companies and organizations, we prepare students for
+                successful careers in today's competitive job market.
+              </p>
+
+            </div>
+
+            <div className="grid grid-cols-2 gap-6">
+
+              <div className="bg-white rounded-3xl p-8 shadow-lg border">
+                <h3 className="text-5xl font-bold text-[#13A090]">100+</h3>
+                <p className="mt-3 text-gray-600">
+                  Industry Partners
+                </p>
+              </div>
+
+              <div className="bg-white rounded-3xl p-8 shadow-lg border">
+                <h3 className="text-5xl font-bold text-[#13A090]">95%</h3>
+                <p className="mt-3 text-gray-600">
+                  Placement Assistance
+                </p>
+              </div>
+
+              <div className="bg-white rounded-3xl p-8 shadow-lg border">
+                <h3 className="text-5xl font-bold text-[#13A090]">50+</h3>
+                <p className="mt-3 text-gray-600">
+                  Skill Programmes
+                </p>
+              </div>
+
+              <div className="bg-white rounded-3xl p-8 shadow-lg border">
+                <h3 className="text-5xl font-bold text-[#13A090]">24×7</h3>
+                <p className="mt-3 text-gray-600">
+                  Career Support
+                </p>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </section>
+
+      {/* Services */}
+
+      <section className="py-20">
+
+        <div className="max-w-7xl mx-auto px-4">
+
+          <div className="text-center mb-14">
+
+            <span className="uppercase tracking-widest text-[#13A090] font-semibold">
+              Placement Support
+            </span>
+
+            <h2 className="font-serif text-4xl font-bold text-[#0F2347] mt-4">
+              What We Provide
+            </h2>
+
+          </div>
+
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            {services.map((item, index) => (
+
+              <div
+                key={index}
+                className="rounded-3xl border p-8 hover:-translate-y-2 hover:shadow-xl transition-all bg-white"
+              >
+
+                <div className="w-16 h-16 rounded-2xl bg-[#F2FBFA] flex items-center justify-center text-4xl mb-6">
+                  {item.icon}
+                </div>
+
+                <h3 className="text-2xl font-bold text-[#0F2347] mb-4">
+                  {item.title}
+                </h3>
+
+                <p className="text-gray-600 leading-7">
+                  {item.description}
+                </p>
+
+              </div>
+
+            ))}
+
+          </div>
+
+        </div>
+
+      </section>
+
+      {/* Process */}
+
+      <section className="py-20 bg-[#F8FAFC]">
+
+        <div className="max-w-7xl mx-auto px-4">
+
+          <div className="text-center mb-16">
+
+            <span className="uppercase tracking-widest text-[#13A090] font-semibold">
+              Placement Journey
+            </span>
+
+            <h2 className="font-serif text-4xl font-bold text-[#0F2347] mt-4">
+              Our Career Process
+            </h2>
+
+          </div>
+
+          <div className="grid md:grid-cols-3 lg:grid-cols-6 gap-6">
+
+            {process.map((step, index) => (
+
+              <div
+                key={index}
+                className="bg-white rounded-2xl shadow border p-6 text-center"
+              >
+
+                <div className="w-14 h-14 rounded-full bg-[#13A090] text-white flex items-center justify-center text-xl font-bold mx-auto mb-5">
+                  {index + 1}
+                </div>
+
+                <h3 className="font-semibold text-[#0F2347]">
+                  {step}
+                </h3>
+
+              </div>
+
+            ))}
+
+          </div>
+
+        </div>
+
+      </section>
+
+      {/* CTA */}
+
+      <section className="bg-[#0F2347] py-20">
+
+        <div className="max-w-4xl mx-auto px-4 text-center">
+
+          <h2 className="font-serif text-4xl font-bold text-white mb-6">
+            Your Career Starts Here
+          </h2>
+
+          <p className="text-slate-300 text-lg leading-8">
+            At NCVSTC, we are committed to helping every learner achieve career
+            success through quality education, industry partnerships,
+            professional mentorship, internships, and dedicated placement
+            support.
+          </p>
+
+        </div>
+
+      </section>
+
+    </div>
+  );
 }
