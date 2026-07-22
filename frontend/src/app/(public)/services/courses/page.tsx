@@ -76,7 +76,7 @@ export default function CoursesServicesPage() {
             ]
         }
     ];
-    
+
     return (
         <div style={{ backgroundColor: '#ffffff', minHeight: '100vh' }}>
             <section style={{ backgroundColor: 'var(--color-navy-dark)', position: 'relative', paddingTop: '5rem', paddingBottom: '5rem', paddingLeft: '1rem', paddingRight: '1rem', overflow: 'hidden' }}>
@@ -142,10 +142,10 @@ export default function CoursesServicesPage() {
                     ))}
                 </div>
             </section>
-            
+
             {/* New section imported from CourseCatalog */}
             <CourseCatalog />
-            
+
         </div>
     );
 }
