@@ -78,7 +78,6 @@ export default function CoursesServicesPage() {
     ];
     
     return (
-    return (
         <div style={{ backgroundColor: '#ffffff', minHeight: '100vh' }}>
             <section style={{ backgroundColor: 'var(--color-navy-dark)', position: 'relative', paddingTop: '5rem', paddingBottom: '5rem', paddingLeft: '1rem', paddingRight: '1rem', overflow: 'hidden' }}>
                 <div style={{ maxWidth: '1280px', margin: '0 auto', textAlign: 'center', position: 'relative', zIndex: 10 }}>
