@@ -78,29 +78,31 @@ export default function CoursesServicesPage() {
     ];
     
     return (
-        <div className="bg-white min-h-screen">
-            <section className="bg-[#0F2347] relative py-20 px-4 overflow-hidden">
-                <div className="max-w-[1280px] mx-auto text-center relative z-10">
-                    <h1 className="font-serif text-4xl md:text-5xl font-bold text-white mb-4">
-                        Courses & <span className="text-[#13A090]">Services</span>
+    return (
+        <div style={{ backgroundColor: '#ffffff', minHeight: '100vh' }}>
+            <section style={{ backgroundColor: 'var(--color-navy-dark)', position: 'relative', paddingTop: '5rem', paddingBottom: '5rem', paddingLeft: '1rem', paddingRight: '1rem', overflow: 'hidden' }}>
+                <div style={{ maxWidth: '1280px', margin: '0 auto', textAlign: 'center', position: 'relative', zIndex: 10 }}>
+                    <h1 style={{ fontFamily: 'var(--font-serif)', fontSize: 'clamp(2.25rem, 5vw, 3rem)', fontWeight: 700, color: '#ffffff', marginBottom: '1rem' }}>
+                        Courses & <span style={{ color: 'var(--color-teal-light)' }}>Services</span>
                     </h1>
                 </div>
             </section>
 
-            <section className="py-16 md:py-20 max-w-[1280px] mx-auto px-4 lg:px-8">
+            <section style={{ paddingTop: '4rem', paddingBottom: '4rem', maxWidth: '1280px', margin: '0 auto', paddingLeft: '1rem', paddingRight: '1rem' }} className="lg:px-8">
+                {/* CORE SERVICES SECTION */}
                 <div className="text-center mb-12">
-                    <div className="inline-flex items-center gap-2 text-xs font-bold tracking-[0.1em] uppercase text-[#0F7B6C] mb-4">
-                        <div className="w-6 h-0.5 bg-[#0F7B6C]"></div>
+                    <div className="inline-flex items-center gap-2 text-xs font-bold tracking-[0.1em] uppercase text-teal mb-4">
+                        <div className="w-6 h-0.5 bg-teal"></div>
                         What We Offer
                     </div>
-                    <h2 className="font-serif text-3xl md:text-4xl font-bold text-[#0F2347]">
-                        Core <span className="text-[#E8920A]">Services</span>
+                    <h2 className="font-serif text-3xl md:text-4xl font-bold text-navy-dark">
+                        Core <span className="text-amber">Services</span>
                     </h2>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                     {programs.map((prog, i) => (
-                        <div key={i} className="bg-white rounded-xl overflow-hidden border border-[#DDE3F0] shadow-sm hover:shadow-[0_12px_40px_rgba(27,58,107,0.1)] transition-all group">
+                        <div key={i} className="bg-white rounded-xl overflow-hidden border border-gray-200 shadow-sm hover:shadow-[0_12px_40px_rgba(27,58,107,0.1)] transition-all group">
                             <div className="h-44 relative overflow-hidden">
                                 <div className="absolute inset-0 bg-black/20 z-10 group-hover:bg-transparent transition-colors"></div>
                                 <img
@@ -111,28 +113,28 @@ export default function CoursesServicesPage() {
                                     className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                                 />
                                 <div className="absolute bottom-4 left-4 z-20">
-                                    <span className="bg-[#1B3A6B]/90 backdrop-blur-sm text-white px-3 py-1 rounded text-xs font-bold uppercase tracking-wider">
+                                    <span className="bg-navy/90 backdrop-blur-sm text-white px-3 py-1 rounded text-xs font-bold uppercase tracking-wider">
                                         Sector
                                     </span>
                                 </div>
                             </div>
 
                             <div className="p-6">
-                                <h3 className="font-serif text-xl font-bold text-[#0F2347] mb-4 group-hover:text-[#0F7B6C] transition-colors">
+                                <h3 className="font-serif text-xl font-bold text-navy-dark mb-4 group-hover:text-teal transition-colors">
                                     {prog.sector}
                                 </h3>
 
                                 <ul className="space-y-3 mb-6">
                                     {prog.courses.map((course, idx) => (
-                                        <li key={idx} className="flex gap-3 items-start text-[0.85rem] text-[#4A5568]">
-                                            <span className="text-[#E8920A] text-[0.6rem] mt-1.5">◆</span>
+                                        <li key={idx} className="flex gap-3 items-start text-[0.85rem] text-gray-600">
+                                            <span className="text-amber text-[0.6rem] mt-1.5">◆</span>
                                             <span>{course}</span>
                                         </li>
                                     ))}
                                 </ul>
 
-                                <div className="pt-4 border-t border-[#EEF2FA]">
-                                    <Link href="/register" className="inline-flex items-center gap-2 text-[#0F7B6C] text-sm font-bold hover:text-[#E8920A] transition-colors">
+                                <div className="pt-4 border-t border-gray-100">
+                                    <Link href="/register" className="inline-flex items-center gap-2 text-teal text-sm font-bold hover:text-amber transition-colors">
                                         Enroll in Sector <span className="text-lg">→</span>
                                     </Link>
                                 </div>

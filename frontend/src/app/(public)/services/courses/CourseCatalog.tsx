@@ -91,16 +91,16 @@ export default function CourseCatalog() {
   return (
     <div>
       {/* Header & Search */}
-      <section className="bg-[#FAFBFF] border-t border-[#EEF2FA] relative py-16 px-4">
+      <section className="bg-surface border-t border-gray-100 relative py-16 px-4">
         <div className="max-w-[1280px] mx-auto text-center relative z-10">
-          <div className="inline-flex items-center gap-2 text-xs font-bold tracking-[0.1em] uppercase text-[#0F7B6C] mb-4">
-            <div className="w-6 h-0.5 bg-[#0F7B6C]"></div>
+          <div className="inline-flex items-center gap-2 text-xs font-bold tracking-[0.1em] uppercase text-teal mb-4">
+            <div className="w-6 h-0.5 bg-teal"></div>
             Recognized Sector Skill Council Programs
           </div>
-          <h2 className="font-serif text-3xl md:text-4xl font-bold text-[#0F2347] mb-4">
-            Full Course <span className="text-[#E8920A]">Catalog</span>
+          <h2 className="font-serif text-3xl md:text-4xl font-bold text-navy-dark mb-4">
+            Full Course <span className="text-amber">Catalog</span>
           </h2>
-          <p className="text-[#4A5568] max-w-2xl mx-auto text-base md:text-lg mb-8">
+          <p className="text-gray-600 max-w-2xl mx-auto text-base md:text-lg mb-8">
             Explore 20 Specialized Training Sectors and hundreds of certified diploma & certificate courses aligned with industry standards.
           </p>
 
@@ -113,7 +113,7 @@ export default function CourseCatalog() {
                 placeholder="Search sector or course name (e.g. Accounting, Nursing, Fire Safety)..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
-                className="w-full pl-12 pr-4 py-3.5 rounded-xl border border-[#DDE3F0] bg-white text-[#0F2347] placeholder-gray-400 text-sm font-medium focus:outline-none focus:border-[#0F7B6C] focus:ring-4 focus:ring-[#0F7B6C]/10 shadow-sm transition-all"
+                className="w-full pl-12 pr-4 py-3.5 rounded-xl border border-gray-200 bg-white text-navy-dark placeholder-gray-400 text-sm font-medium focus:outline-none focus:border-teal focus:ring-4 focus:ring-teal/10 shadow-sm transition-all"
               />
               {searchTerm && (
                 <button
@@ -128,12 +128,11 @@ export default function CourseCatalog() {
         </div>
       </section>
 
-      {/* Course Cards Section */}
       <section className="py-12 md:py-16 max-w-[1280px] mx-auto px-4 lg:px-8">
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-8">
           <div>
-            <h2 className="font-serif text-2xl md:text-3xl font-bold text-[#0F2347]">
-              Training Sectors <span className="text-[#0F7B6C]">({filteredSectors.length})</span>
+            <h2 className="font-serif text-2xl md:text-3xl font-bold text-navy-dark">
+              Training Sectors <span className="text-teal">({filteredSectors.length})</span>
             </h2>
             <p className="text-gray-500 text-sm mt-1">
               Select a sector to view full subcourse details, duration, and minimum qualifications.
@@ -148,22 +147,21 @@ export default function CourseCatalog() {
             <p className="text-gray-500 text-sm mt-1">Try searching with a different keyword</p>
             <button
               onClick={() => setSearchTerm('')}
-              className="mt-4 px-4 py-2 bg-[#0F2347] text-white text-xs font-bold rounded-lg hover:bg-[#13A090] transition-colors"
+              className="mt-4 px-4 py-2 bg-navy-dark text-white text-xs font-bold rounded-lg hover:bg-teal transition-colors"
             >
               Reset Search
             </button>
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {filteredSectors.map((sec) => {
+            {filteredSectors.map((sec, idx) => {
               const image = sectorImages[sec.id] || defaultImage;
 
               return (
                 <div
-                  key={sec.id}
-                  className="bg-white rounded-2xl overflow-hidden border border-[#DDE3F0] shadow-sm hover:shadow-[0_16px_45px_rgba(15,35,71,0.12)] transition-all duration-300 flex flex-col group"
+                  key={idx}
+                  className="bg-white rounded-2xl overflow-hidden border border-gray-200 shadow-sm hover:shadow-[0_16px_45px_rgba(15,35,71,0.12)] transition-all duration-300 flex flex-col group"
                 >
-                  {/* Card Image Header */}
                   <div className="h-48 relative overflow-hidden bg-gray-900">
                     <img
                       src={image}
@@ -175,43 +173,40 @@ export default function CourseCatalog() {
                     <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent"></div>
                     
                     <div className="absolute top-4 left-4">
-                      <span className="bg-[#13A090] text-white px-3 py-1 rounded-full text-[11px] font-bold tracking-wider uppercase shadow-md">
+                      <span className="bg-teal-light text-white px-3 py-1 rounded-full text-[11px] font-bold tracking-wider uppercase shadow-md">
                         {sec.subcourseCount} Programs
                       </span>
                     </div>
                   </div>
 
-                  {/* Card Content */}
                   <div className="p-6 flex-1 flex flex-col justify-between">
                     <div>
-                      <h3 className="font-serif text-lg font-bold text-[#0F2347] mb-3 group-hover:text-[#0F7B6C] transition-colors line-clamp-2">
+                      <h3 className="font-serif text-lg font-bold text-navy-dark mb-3 group-hover:text-teal transition-colors line-clamp-2">
                         {sec.sector}
                       </h3>
 
-                      {/* Course Samples */}
                       <div className="space-y-2 mb-6">
                         <span className="text-[11px] font-semibold text-gray-400 uppercase tracking-wider block mb-1.5">
                           Featured Courses:
                         </span>
                         {sec.subcourses.slice(0, 3).map((sub, idx) => (
                           <div key={idx} className="flex items-start gap-2 text-xs text-gray-600">
-                            <span className="text-[#E8920A] shrink-0 mt-0.5">✦</span>
+                            <span className="text-amber shrink-0 mt-0.5">✦</span>
                             <span className="line-clamp-1 font-medium">{sub.title}</span>
                           </div>
                         ))}
                         {sec.subcourses.length > 3 && (
-                          <p className="text-[11px] text-[#0F7B6C] font-semibold pt-1">
+                          <p className="text-[11px] text-teal font-semibold pt-1">
                             + {sec.subcourses.length - 3} more specialized courses
                           </p>
                         )}
                       </div>
                     </div>
 
-                    {/* Action Buttons */}
                     <div className="pt-4 border-t border-gray-100 flex items-center justify-between gap-3">
                       <button
                         onClick={() => openModal(sec)}
-                        className="w-full py-2.5 px-4 rounded-xl bg-[#0F2347] hover:bg-[#0F7B6C] text-white text-xs font-bold transition-all shadow-md flex items-center justify-center gap-2"
+                        className="w-full py-2.5 px-4 rounded-xl bg-navy-dark hover:bg-teal text-white text-xs font-bold transition-all shadow-md flex items-center justify-center gap-2"
                       >
                         <span>View Details & Syllabus</span>
                         <span>➔</span>
@@ -225,19 +220,20 @@ export default function CourseCatalog() {
         )}
       </section>
 
-      {/* DETAILS MODAL */}
       {selectedSector && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-in fade-in duration-200">
+        <div 
+            className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/60 backdrop-blur-sm animate-in fade-in duration-200"
+            onClick={(e) => e.stopPropagation()}
+        >
           <div className="bg-white w-full max-w-4xl rounded-3xl shadow-2xl overflow-hidden flex flex-col max-h-[90vh] border border-gray-200">
-            {/* Modal Header */}
-            <div className="bg-gradient-to-r from-[#0F2347] to-[#1B3A6B] p-6 text-white relative shrink-0">
+            <div className="bg-navy-dark p-6 text-white relative shrink-0">
               <button
                 onClick={closeModal}
                 className="absolute top-5 right-5 w-8 h-8 rounded-full bg-white/10 hover:bg-white/20 text-white flex items-center justify-center text-sm font-bold transition-all"
               >
                 ✕
               </button>
-              <div className="inline-block px-3 py-1 rounded-md bg-[#13A090] text-xs font-bold uppercase tracking-wider mb-2">
+              <div className="inline-block px-3 py-1 rounded-md bg-teal text-xs font-bold uppercase tracking-wider mb-2">
                 Official Curriculum
               </div>
               <h2 className="font-serif text-xl md:text-2xl font-bold pr-10">
@@ -247,7 +243,6 @@ export default function CourseCatalog() {
                 Total Offered Courses: <strong className="text-white">{selectedSector.subcourses.length}</strong>
               </p>
 
-              {/* Modal Search Bar */}
               <div className="mt-4 relative">
                 <input
                   type="text"
@@ -268,7 +263,6 @@ export default function CourseCatalog() {
               </div>
             </div>
 
-            {/* Modal Body - Course Table */}
             <div className="p-6 overflow-y-auto flex-1 bg-[#FAFBFF]">
               {filteredSubcourses.length === 0 ? (
                 <div className="text-center py-12 text-gray-500">
@@ -278,7 +272,7 @@ export default function CourseCatalog() {
                 <div className="overflow-x-auto rounded-2xl border border-gray-200 shadow-sm bg-white">
                   <table className="w-full text-left border-collapse">
                     <thead>
-                      <tr className="bg-[#0F2347] text-white text-[11px] uppercase tracking-wider font-bold">
+                      <tr className="bg-navy-dark text-white text-[11px] uppercase tracking-wider font-bold">
                         <th className="py-3.5 px-4 text-center w-16">Sl No</th>
                         <th className="py-3.5 px-4">Course Title</th>
                         <th className="py-3.5 px-4 w-32">Duration</th>
@@ -290,21 +284,21 @@ export default function CourseCatalog() {
                       {filteredSubcourses.map((sc, idx) => (
                         <tr
                           key={idx}
-                          className="hover:bg-[#EEF4FF]/50 transition-colors"
+                          className="hover:bg-blue-50/50 transition-colors"
                         >
-                          <td className="py-3.5 px-4 text-center font-bold text-[#0F7B6C] bg-gray-50/50">
+                          <td className="py-3.5 px-4 text-center font-bold text-teal bg-gray-50/50">
                             {sc.slNo}
                           </td>
-                          <td className="py-3.5 px-4 font-semibold text-[#0F2347]">
+                          <td className="py-3.5 px-4 font-semibold text-navy-dark">
                             {sc.title}
                           </td>
                           <td className="py-3.5 px-4">
-                            <span className="inline-block px-2.5 py-1 bg-amber-50 text-[#E8920A] border border-amber-200/60 rounded-md text-[11px] font-bold">
+                            <span className="inline-block px-2.5 py-1 bg-amber-50 text-amber border border-amber-200/60 rounded-md text-[11px] font-bold">
                               ⏱️ {sc.duration}
                             </span>
                           </td>
                           <td className="py-3.5 px-4">
-                            <span className="inline-block px-2.5 py-1 bg-teal-50 text-[#0F7B6C] border border-teal-200/60 rounded-md text-[11px] font-bold">
+                            <span className="inline-block px-2.5 py-1 bg-teal-50 text-teal border border-teal-200/60 rounded-md text-[11px] font-bold">
                               🎓 {sc.qualification}
                             </span>
                           </td>
@@ -312,7 +306,7 @@ export default function CourseCatalog() {
                             <Link
                               href={`/registration/online?course=${encodeURIComponent(sc.title)}`}
                               onClick={closeModal}
-                              className="inline-block px-3 py-1.5 bg-[#0F7B6C] hover:bg-[#0F2347] text-white text-[10px] font-bold rounded-lg transition-colors shadow-sm"
+                              className="inline-block px-3 py-1.5 bg-teal hover:bg-navy-dark text-white text-[10px] font-bold rounded-lg transition-colors shadow-sm"
                             >
                               Enroll
                             </Link>
@@ -325,7 +319,6 @@ export default function CourseCatalog() {
               )}
             </div>
 
-            {/* Modal Footer */}
             <div className="bg-white p-4 border-t border-gray-100 flex items-center justify-between shrink-0">
               <span className="text-xs text-gray-500 font-medium">
                 Showing <strong>{filteredSubcourses.length}</strong> of {selectedSector.subcourses.length} courses
@@ -340,7 +333,7 @@ export default function CourseCatalog() {
                 <Link
                   href="/registration/online"
                   onClick={closeModal}
-                  className="px-5 py-2 bg-[#0F7B6C] hover:bg-[#0F2347] text-white text-xs font-bold rounded-xl transition-colors shadow-md"
+                  className="px-5 py-2 bg-teal hover:bg-navy-dark text-white text-xs font-bold rounded-xl transition-colors shadow-md"
                 >
                   Apply Online Now
                 </Link>
