@@ -1,0 +1,5562 @@
+[
+  {
+    "id": "accounting-and-finance-education-training-sector",
+    "sector": "ACCOUNTING AND FINANCE EDUCATION TRAINING SECTOR",
+    "pdfFileName": "1. ACCOUNTING AND FINANCE EDUCATION TRAINING SECTOR (1).pdf",
+    "subcourseCount": 11,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "DIPLOMA IN ACCOUNTING AND FINANCIAL MANAGEMENT",
+        "duration": "1 YEAR",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN BANKING, INSURANCE AND FINANCE",
+        "duration": "1 YEAR",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN COMPUTERIZED ACCOUNTING AND OFFICE AUTOMATION",
+        "duration": "1 YEAR",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "4",
+        "title": "DIPLOMA IN SECRETARIAL PRACTICE AND BUSINESS ADMINISTRATION",
+        "duration": "1 YEAR",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCE DIPLOMA IN ACCOUNTING, TAXATION AND FINANCE",
+        "duration": "2 YEARS",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "6",
+        "title": "ADVANCE DIPLOMA IN COMPUTERIZED ACCOUNTING AND BANKING MANAGEMENT",
+        "duration": "2 YEARS",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "7",
+        "title": "ADVANCE DIPLOMA IN OFFICE AUTOMATION AND FINANCIAL SERVICES",
+        "duration": "2 YEARS",
+        "qualification": "12th"
+      },
+      {
+        "slNo": "8",
+        "title": "CERTIFICATE IN ACCOUNTING AND TAXATION",
+        "duration": "6 MONTHS",
+        "qualification": "10th"
+      },
+      {
+        "slNo": "9",
+        "title": "CERTIFICATE IN BANKING AND FINANCIAL SERVICES",
+        "duration": "6 MONTHS",
+        "qualification": "10th"
+      },
+      {
+        "slNo": "10",
+        "title": "CERTIFICATE IN COMPUTERIZED ACCOUNTING AND OFFICE MANAGEMENT",
+        "duration": "6 MONTHS",
+        "qualification": "10th"
+      },
+      {
+        "slNo": "11",
+        "title": "CERTIFICATE IN SECRETARIAL PRACTICE AND OFFICE ADMINISTRATION",
+        "duration": "6 MONTHS",
+        "qualification": "10th"
+      }
+    ]
+  },
+  {
+    "id": "bio-medical-technology-sector",
+    "sector": "BIO-MEDICAL TECHNOLOGY SECTOR",
+    "pdfFileName": "10.BIO-MEDICAL TECHNOLOGY SECTOR.pdf",
+    "subcourseCount": 16,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "BE/B.Tech MANAGEMENT P.G. DIPLOMA IN BIOMEDICAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "BE/B.Tech ENGINEERING P.G. DIPLOMA IN CT-SCAN & MRI SERVICE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "BE/B.Tech AND MAINTENANCE P.G. DIPLOMA IN ICU EQUIPMENT SALES &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "BE/B.Tech SERVICES P.G. DIPLOMA IN CRITICAL CARE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "BE/B.Tech EQUIPMENT SALES & SERVICES P.G. DIPLOMA IN ULTRASOUND BUSINESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "BE/B.Tech MANAGEMENT P.G. DIPLOMA IN MEDICAL IMAGING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "BE/B.Tech BUSINESS MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "P.G. DIPLOMA IN WASTE MANAGEMENT Graduation",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN BIOMEDICAL ENGINEERING 12th Science DIPLOMA IN ULTRASOUND SALES &",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "12th Science SERVICES DIPLOMA IN ICU EQUIPMENT SALES &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "12th Science SERVICES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN BIOMEDICAL TECHNOLOGY 12th Science",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN MEDICAL FURNITURE SERVICE 12th Science DIPLOMA IN HOSPITAL EQUIPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "12th Science BUSINESS DIPLOMA IN MEDICAL GAS PIPELINE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "12th Science TECHNOLOGY DIPLOMA IN MEDICAL IMAGING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "12th Science EQUIPMENT TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "health-care-and-paramedical-science-sector",
+    "sector": "HEALTH CARE AND PARAMEDICAL SCIENCE SECTOR",
+    "pdfFileName": "11.HEALTH CARE AND PARAMEDICAL SCIENCE SECTOR.pdf",
+    "subcourseCount": 88,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "BMLT TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN REHABILITATION THERAPY 12th",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN PHYSIOTHERAPY 12th PCB DIPLOMA IN COMMUNITY MEDICAL",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "SERVICES AND ESSENTIAL DRUGS 12th (CMS&ED)",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN DIALYSIS TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "DIPLOMA IN CARDIOLOGY TECHNICIAN 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN MRI TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN CT-SCAN TECHNOLOGY 12th PCB DIPLOMA IN MEDICAL RADIOLOGY AND",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "12th PCB IMAGING TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN X-RAY TECHNOLOGY 12th PCB DIPLOMA IN OPERATION THEATER",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "12th PCB TECHNICIAN",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN MEDICAL LAB TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN MEDICAL ASSISTANT 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN ICU TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN ECG TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN EEG TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN CRITICAL CARE TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "DIPLOMA IN OPHTHALMIC TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "DIPLOMA IN OPTOMETRY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "DIPLOMA IN MEDICAL TRANSCRIPTION 12th PCB DIPLOMA IN TRAUMA CARE AND CASUALTY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "12th PCB TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "DIPLOMA IN ANESTHESIA TECHNOLOGY 12th PCB DIPLOMA IN EMERGENCY MEDICAL",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "12th PCB TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "DIPLOMA IN CATH LAB TECHNOLOGY 12th PCB DIPLOMA IN LAPAROSCOPIC SURGICAL",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "12th PCB TECHNOLOGY DIPLOMA IN MULTIPURPOSE HEALTH",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "12th PCB WORKER DIPLOMA IN CARDIAC NON INVASIVE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "12th PCB TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "DIPLOMA IN PHARMACY ASSISTANT 12th PCB DIPLOMA IN HOSPITAL DOCUMENTATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "12th AND RECORDS MANAGEMENT DIPLOMA IN HOSPITAL WASTE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "12th PCB MANAGEMENT DIPLOMA IN COMMUNITY MEDICAL",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "12th SERVICES",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "DIPLOMA IN VENTILATOR TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "DIPLOMA IN DENTAL HYGIENIST 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "DIPLOMA IN DENTAL MECHANICS 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "DIPLOMA IN DENTAL LAB TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "DIPLOMA IN RADIOTHERAPY TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "DIPLOMA IN CARDIOLOGY TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "DIPLOMA IN VETERINARY SCIENCES 12th PCB DIPLOMA IN VETERINARY SCIENCE AND",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "12th PCB ANIMAL HEALTH TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "DIPLOMA IN NURSING ASSISTANT 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "DIPLOMA IN VETERINARY NURSING 12th PCB DIPLOMA IN VETERINARY LAB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "12th PCB TECHNOLOGY DIPLOMA IN LIVESTOCK AND VETERINARY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "12th PCB SCIENCES DIPLOMA IN LIVESTOCK AND DAIRY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "12th PCB TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "DIPLOMA IN VETERINARY INSPECTOR 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "DIPLOMA IN OPTICAL DISPENSING 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "DIPLOMA IN ICU MANAGEMENT 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "DIPLOMA IN BLOOD BANK TECHNOLOGY 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "DIPLOMA IN PHYSICIAN ASSISTANT 12th PCB",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "DIPLOMA IN BIO-TECHNOLOGY 12th PCB DIPLOMA IN AUDIOLOGY AND SPEECH",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "12th PCB THERAPY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "DIPLOMA IN HEALTH SANITARY INSPECTOR 12th PCB",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "DIPLOMA IN CARDIAC TECHNICIAN 12th PCB",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "DIPLOMA IN SANITARY INSPECTOR 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "DIPLOMA IN FOOD SAFETY INSPECTOR 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "DIPLOMA IN PHARMACY ASSISTANT (DPA) 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "DIPLOMA IN NANNY CARE AND NUTRITION 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "DIPLOMA IN GENERAL NURSING CARE 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "DIPLOMA IN MEDICAL DRESSER 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "DIPLOMA IN X-RAY TECHNICIAN 10th DIPLOMA IN COMMUNITY HEALTH AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "10th FIELD MEDICAL ASSISTANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "DIPLOMA IN MEDICAL LAB TECHNICIAN 10th DIPLOMA IN GENERAL NURSING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "10th ASSISTANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "DIPLOMA IN BIO-TECH TECHNICIAN 10th DIPLOMA IN HOSPITAL NURSING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "10th MIDWIFERY DIPLOMA IN EMERGENCY MEDICAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "10th TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "DIPLOMA IN CHEMICAL LAB TECHNOLOGY 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "DIPLOMA IN NANNY TRAINING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "DIPLOMA IN LIVE AND CARE GIVER 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "70",
+        "title": "DIPLOMA IN OLD AGE CARE 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "71",
+        "title": "DIPLOMA IN COMMUNITY HEALTH WORKER 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "72",
+        "title": "DIPLOMA IN FIRST AID MEDICAL CARE 10th DIPLOMA IN RESPIRATORY CARE FIRST AID",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "73",
+        "title": "10th MEDICAL DIPLOMA IN RURAL HEALTHCARE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "74",
+        "title": "10th ASSISTANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "75",
+        "title": "GENERAL DUTY ASSISTANT 10th CERTIFICATE IN OPERATION THEATER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "76",
+        "title": "10th TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "77",
+        "title": "CERTIFICATE IN MEDICAL LAB TECHNICIAN 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "78",
+        "title": "CERTIFICATE IN MEDICAL DRESSER 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "79",
+        "title": "CERTIFICATE IN X-RAY TECHNICIAN 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "80",
+        "title": "CERTIFICATE IN NURSING ASSISTANT 10th CERTIFICATE IN EMERGENCY MEDICAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "81",
+        "title": "10th TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "82",
+        "title": "COMMUNITY HEALTH WORKER 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "83",
+        "title": "CERTIFICATE IN CARDIAC TECHNICIAN 10th CERTIFICATE IN DENTAL OPERATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "84",
+        "title": "10th ROOM ASSISTANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "85",
+        "title": "CERTIFICATE IN DIALYSIS TECHNICIAN 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "86",
+        "title": "CERTIFICATE IN COMMUNITY HEALTH 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "87",
+        "title": "CERTIFICATE IN ECG TECHNICIAN 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "88",
+        "title": "CERTIFICATE IN BED SIDE ASSISTANT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "naturopathy-and-yoga-sciences-sector",
+    "sector": "NATUROPATHY AND YOGA SCIENCES SECTOR",
+    "pdfFileName": "12.NATUROPATHY AND YOGA SCIENCES SECTOR.pdf",
+    "subcourseCount": 17,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "P.G. DIPLOMA IN YOGA THERAPY Science",
+        "duration": "1 Year",
+        "qualification": "Graduation"
+      },
+      {
+        "slNo": "2",
+        "title": "P.G. DIPLOMA IN YOGA SCIENCE Graduation",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "POST GRADUATE DIPLOMA IN YOGA & BNYS/B.Sc. Yoga NATUROPATHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "P.G. DIPLOMA IN ACUPUNCTURE Graduation",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN UNANI THERAPY 12th",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "DIPLOMA IN AYURVEDIC THERAPY 12th",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN COMPLEX HOMEOPATHY 12th SCIENCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN ELECTRO-HOMEOPATHY 12th MEDICAL SCIENCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN NATUROPATHY AND YOGA 12th SCIENCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN YOGA THERAPY 12th",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN ACUPUNCTURE MEDICAL 12th SCIENCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN OCCUPATIONAL THERAPY 12th",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN AYURVEDIC PHARMACY 12th PCB/PCM",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN HOMOEOPATHIC PHARMACY 12th PCB/PCM",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN UNANI PHARMACY 12th PCB/PCM",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN NATUROPATHY 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN YOGA SCIENCE 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "vocational-education-training-sector",
+    "sector": "VOCATIONAL EDUCATION TRAINING SECTOR",
+    "pdfFileName": "13.VOCATIONAL EDUCATION TRAINING SECTOR.pdf",
+    "subcourseCount": 47,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "ADVANCE DIPLOMA IN GOODS & SERVICE TAX 12th ADVANCE DIPLOMA IN PLAY CENTER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN TAXATION &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "12th EVALUATION ADVANCE DIPLOMA IN FINANCIAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "12th ACCOUNTING & TALLY ADVANCE DIPLOMA IN SOLAR ENERGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "12th TECHNICIAN ADVANCE DIPLOMA IN LAUNDRY SERVICES &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN AQUA PURIFICATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "12th TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "ADVANCE DIPLOMA IN CUSTOMER CARE 10th EXECUTIVE ADVANCE DIPLOMA IN WATER PURIFICATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "10th MANAGEMENT ADVANCE DIPLOMA IN RADIO & TV",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "10th TECHNICIAN ADVANCE DIPLOMA IN AUTO MECHANIC CUM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "10th DRIVER TRAINING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "ADVANCE DIPLOMA IN INTERIOR DECORATION 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "ADVANCE DIPLOMA IN HOME SCIENCE 10th ADVANCE DIPLOMA IN MOTOR AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "10th TRANSFORMER WINDING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "ADVANCE DIPLOMA IN OFFICE CARE 10th ADVANCE DIPLOMA IN PLUMBING & SANITARY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "10th FITTING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "ADVANCE DIPLOMA IN DIGITAL ART 10th ADVANCE DIPLOMA IN AC AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "10th REFRIGERATION MAINTENANCE ADVANCE DIPLOMA IN DRAWING AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "10th PAINTING ADVANCE DIPLOMA IN ELECTRICAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "10th TECHNICIAN ADVANCE DIPLOMA IN CARPENTRY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "10th TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "DIPLOMA IN RECEPTION MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "DIPLOMA IN FURNITURE AND CABINET MAKING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "DIPLOMA IN ELECTRO PLATING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "DIPLOMA IN HOUSE KEEPING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "DIPLOMA IN FINANCIAL ACCOUNTING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "DIPLOMA IN SHOP MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "DIPLOMA IN SOLAR ENERGY TECHNICIAN 10th DIPLOMA IN SOLAR SYSTEM MAINTENANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "10th OPERATOR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "DIPLOMA IN SEWING MACHINE MECHANIC 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "DIPLOMA IN GOLDSMITH 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "DIPLOMA IN BLACKSMITH 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "DIPLOMA IN LIFT OPERATOR 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "DIPLOMA IN UTILITY OPERATOR 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "DIPLOMA IN JCB OPERATOR 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "DIPLOMA IN MOBILE CRANE OPERATOR 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "DIPLOMA IN CNC OPERATOR 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "DIPLOMA IN ART AND CRAFT 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "DIPLOMA IN DRAFTSMAN 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "DIPLOMA IN LAUNDRY SERVICES 8th DIPLOMA IN FORKLIFT OPERATION AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "8th MAINTENANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "DIPLOMA IN ELECTRICIAN 8th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "CERTIFICATE IN PHOTOGRAPHY 5th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "CERTIFICATE IN FOOD MAKING 5th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "CERTIFICATE IN CARPENTER 5th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "CERTIFICATE IN DRAWING AND PAINTING 5th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "CERTIFICATE IN PERSONALITY DEVELOPMENT 5th",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "aviation-training-sector",
+    "sector": "AVIATION TRAINING SECTOR",
+    "pdfFileName": "14.AVIATION TRAINING SECTOR.pdf",
+    "subcourseCount": 16,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "Year MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN AIRPORT MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN CABIN CREW MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "DIPLOMA IN AIR CARGO PRACTICES & DOCUMENTATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN DOMESTIC AIRLINE & TRAVEL MANAGEMENT DIPLOMA IN AIRLINE TRAVEL & TOURISM AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "HOSPITALITY MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN AIR FARE & TICKETING MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN AVIATION SAFETY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN AIRLINE MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN AIR/SEA CARGO MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN AVIATION AND HOSPITALITY MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN AIRPORT & HOTEL MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "AIR HOSTESS TRAINING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "POST DIPLOMA IN AIRPORT MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN AIRPORT GROUND STAFF TRAINING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "CERTIFICATE IN AIR FARES & TICKETING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "business-management-education-training-sector",
+    "sector": "BUSINESS MANAGEMENT EDUCATION TRAINING SECTOR",
+    "pdfFileName": "15.BUSINESS MANAGEMENT EDUCATION TRAINING SECTOR.pdf",
+    "subcourseCount": 115,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "ADVANCED DIPLOMA IN INVESTMENT BANKING ADVANCED DIPLOMA IN TREASURY AND FOREX",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "ADVANCED DIPLOMA IN INSURANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCED DIPLOMA IN ACCOUNTING ADVANCED DIPLOMA IN ACCOUNTING STANDARDS AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "US GAAP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "ADVANCED DIPLOMA IN FORENSIC ACCOUNTING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "ADVANCED DIPLOMA IN INFORMATION SYSTEMS AUDIT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "ADVANCED DIPLOMA IN BUSINESS FINANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "ADVANCED DIPLOMA IN FINANCIAL ENGINEERING ADVANCED DIPLOMA IN STRATEGIC FINANCE AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "CONTROL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "ADVANCED DIPLOMA IN INVESTMENT AND TAX PLANNING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "ADVANCED DIPLOMA IN CYBER LAW ADVANCED DIPLOMA IN INTELLECTUAL PROPERTY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "RIGHTS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "ADVANCED DIPLOMA IN ENVIRONMENTAL LAW ADVANCED DIPLOMA IN ALTERNATIVE DISPUTE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "RESOLUTION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "ADVANCED DIPLOMA IN INTERNATIONAL BUSINESS LAW",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "ADVANCED DIPLOMA IN SECURITIES LAW ADVANCED DIPLOMA IN BANKING LAWS & LOAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "ADVANCED DIPLOMA IN HOSPITAL LAWS & MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "ADVANCED DIPLOMA IN PROJECT MANAGEMENT ADVANCED DIPLOMA IN EXPORT AND IMPORT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "ADVANCED DIPLOMA IN MANAGEMENT OF E-BUSINESS ADVANCED DIPLOMA IN GLOBAL STRATEGIC",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "ADVANCED DIPLOMA IN ENTERPRISE RISK MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "ADVANCED DIPLOMA IN MARKETING MANAGEMENT ADVANCED DIPLOMA IN CUSTOMER RELATIONSHIP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "MANAGEMENT ADVANCED DIPLOMA IN MARKETING FINANCIAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "PRODUCTS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "ADVANCED DIPLOMA IN BRAND MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "ADVANCED DIPLOMA IN RETAIL MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "ADVANCED DIPLOMA IN MARKETING COMMUNICATIONS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "ADVANCED DIPLOMA IN INDUSTRIAL MARKETING ADVANCED DIPLOMA IN HUMAN RESOURCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "MANAGEMENT ADVANCED DIPLOMA IN LEADERSHIP AND CHANGE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "ADVANCED DIPLOMA IN TRAINING AND DEVELOPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "ADVANCED DIPLOMA IN PERFORMANCE MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "ADVANCED DIPLOMA IN SUPPLY CHAIN MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "ADVANCED DIPLOMA IN QUALITY MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "ADVANCED DIPLOMA IN NGO MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "ADVANCED DIPLOMA IN COMMUNITY DEVELOPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "ADVANCED DIPLOMA IN WELFARE LAW",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "DIPLOMA IN FINANCIAL ACCOUNTING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "DIPLOMA IN FINANCIAL STATEMENT ANALYSIS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "DIPLOMA IN MANAGEMENT ACCOUNTING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "DIPLOMA IN AUDITING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "DIPLOMA IN FINANCIAL MARKETS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "DIPLOMA IN INTERNATIONAL FINANCE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "DIPLOMA IN MERGERS AND ACQUISITIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "DIPLOMA IN FINANCIAL INSTITUTIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "DIPLOMA IN FINANCIAL MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "DIPLOMA IN FINANCIAL SERVICES",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "DIPLOMA IN FINANCIAL RISK MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "DIPLOMA IN EQUITY VALUATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "DIPLOMA IN DERIVATIVE VALUATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "DIPLOMA IN DEBT VALUATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "DIPLOMA IN SECURITY ANALYSIS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "DIPLOMA IN MUTUAL FUNDS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "DIPLOMA IN PORTFOLIO MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "DIPLOMA IN FINANCIAL PLANNING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "DIPLOMA IN MONEY & BANKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "DIPLOMA IN COMMERCIAL BANKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "DIPLOMA IN INTERNATIONAL BANKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "DIPLOMA IN BANKING OPERATIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "DIPLOMA IN CENTRAL BANKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "DIPLOMA IN CREDIT MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "DIPLOMA IN BANK MARKETING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "DIPLOMA IN LIFE INSURANCE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "DIPLOMA IN HEALTH INSURANCE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "DIPLOMA IN INSURANCE UNDERWRITING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "70",
+        "title": "DIPLOMA IN INSURANCE OPERATIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "71",
+        "title": "DIPLOMA IN ACTUARIAL PRINCIPLES & PRACTICES",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "72",
+        "title": "DIPLOMA IN GENERAL INSURANCE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "73",
+        "title": "DIPLOMA IN INSURANCE MARKETING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "74",
+        "title": "DIPLOMA IN CLAIMS MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "75",
+        "title": "DIPLOMA IN INSURANCE INVESTMENTS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "76",
+        "title": "DIPLOMA IN REINSURANCE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "77",
+        "title": "DIPLOMA IN BUSINESS LAW",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "78",
+        "title": "DIPLOMA IN INDIRECT TAXATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "79",
+        "title": "DIPLOMA IN DIRECT TAXATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "80",
+        "title": "DIPLOMA IN DIRECT TAXATION AND INDIRECT TAXATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "81",
+        "title": "DIPLOMA IN HOSPITAL LAWS & MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "82",
+        "title": "DIPLOMA IN BANKING LAWS & LOAN MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "83",
+        "title": "DIPLOMA IN BUSINESS STRATEGY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "84",
+        "title": "DIPLOMA IN BUSINESS RESEARCH METHODS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "85",
+        "title": "DIPLOMA IN OPERATIONS MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "86",
+        "title": "DIPLOMA IN MANAGEMENT CONTROL SYSTEMS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "87",
+        "title": "DIPLOMA IN BUSINESS ECONOMICS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "88",
+        "title": "DIPLOMA IN BUSINESS COMMUNICATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "89",
+        "title": "DIPLOMA IN IT IN MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "90",
+        "title": "DIPLOMA IN BUSINESS ETHICS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "91",
+        "title": "DIPLOMA IN SALES & DISTRIBUTION MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "92",
+        "title": "DIPLOMA IN SERVICES MARKETING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "93",
+        "title": "DIPLOMA IN STRATEGIC MARKETING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "94",
+        "title": "DIPLOMA IN MARKETING COMMUNICATIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "95",
+        "title": "DIPLOMA IN CONSUMER BEHAVIOR",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "96",
+        "title": "DIPLOMA IN GLOBAL BUSINESS ENVIRONMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "97",
+        "title": "DIPLOMA IN MULTINATIONAL CORPORATIONS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "98",
+        "title": "DIPLOMA IN INTERNATIONAL BUSINESS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "99",
+        "title": "DIPLOMA IN ORGANIZATIONAL BEHAVIOR",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "100",
+        "title": "DIPLOMA IN MANAGERIAL EFFECTIVENESS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "101",
+        "title": "DIPLOMA IN LIBRARY AND INFORMATION SCIENCES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "102",
+        "title": "DIPLOMA IN EVENT MANAGEMENT TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "103",
+        "title": "DIPLOMA IN INSURANCE AGENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "104",
+        "title": "DIPLOMA IN FOREIGN TRADE DIPLOMA IN LOGISTICS, SUPPLY CHAIN MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "105",
+        "title": "AND RETAIL MANAGEMENT DIPLOMA IN SHIPPING MANAGEMENT AND EXPORT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "106",
+        "title": "IMPORT (EXIM) MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "107",
+        "title": "POST DIPLOMA IN INTERNATIONAL BUSINESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "108",
+        "title": "POST DIPLOMA IN MATERIAL MANAGEMENT POST DIPLOMA IN PERSONNEL MANAGEMENT &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "109",
+        "title": "INDUSTRIAL RELATIONS POST DIPLOMA IN PRODUCTION & OPERATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "110",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "111",
+        "title": "POST DIPLOMA IN PRODUCTION MANAGEMENT CONTROL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "112",
+        "title": "POST DIPLOMA IN HUMAN RESOURCE MANAGEMENT POST DIPLOMA IN LOGISTICS, SUPPLY CHAIN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "113",
+        "title": "MANAGEMENT & RETAIL MANAGEMENT POST DIPLOMA IN INTERNATIONAL SHIPPING MGMT &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "114",
+        "title": "EXPORT, IMPORT MGMT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "115",
+        "title": "POST DIPLOMA IN RETAIL MANAGEMENT POST DIPLOMA IN EXIM AND LOGISTICS SUPPLY CHAIN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "116",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "shipping-management-training-sector",
+    "sector": "SHIPPING MANAGEMENT TRAINING SECTOR",
+    "pdfFileName": "16.SHIPPING MANAGEMENT TRAINING SECTOR.pdf",
+    "subcourseCount": 27,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN MARINE DIESEL ENGINEERING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN OIL RIG AND DRILLING PROCESS DIPLOMA IN SHIP BUILDING AND OFFSHORE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN SUBSEA & PIPELINE ENGINEERING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "DIPLOMA IN CRUISE LINE MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN DOMESTIC SHIPPING MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN CREW MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN SHIP SAFETY MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN SHIP CATERING MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN PORT OPERATIONS & MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN CABIN ROOM TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN MARINE DIESEL ENGINE MECHANIC",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN SHIP DRAUGHTSMAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "CERTIFICATION IN ANSYS AQWA",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "CERTIFICATION IN ANSYS FLUENT",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "CERTIFICATION IN CFD CERTIFICATION IN COMPUTER APPLICATION IN DESIGN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "OF OFFSHORE STRUCTURE CERTIFICATION IN COMPUTER APPLICATION IN HULL",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "FORM DESIGN CERTIFICATION IN COMPUTER APPLICATION IN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "SEAKEEPING AND MANEUVERING CERTIFICATION IN COMPUTER APPLICATION IN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "STRUCTURAL ANALYSIS OF SHIPS CERTIFICATION IN DESIGN OF SPECIAL PURPOSE",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "VESSEL CERTIFICATION IN ENGINEERING ECONOMICS IN SHIP",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "DESIGN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "CERTIFICATION IN MAXSURF, MOSES, SACS",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "CERTIFICATION IN SHIP DESIGN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "CERTIFICATION IN SHIP RESISTANCE AND PROPULSION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "CERTIFICATION IN SHIP STABILITY",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "COMPUTER APPLICATION IN SHIP DESIGN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "solar-energy-training-sector",
+    "sector": "SOLAR ENERGY TRAINING SECTOR",
+    "pdfFileName": "17.SOLAR ENERGY TRAINING SECTOR.pdf",
+    "subcourseCount": 17,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN SOLAR PLANT & ELECTRICAL TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN SOLAR ENGINEERING TECHNIQUES DIPLOMA IN ENTREPRENEURSHIP IN THE FIELD OF",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "RENEWABLE ENERGY DIPLOMA IN RENEWAL ENERGY AND ITS APPLICATION IN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "THE FIELD OF SOLAR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "ADVANCED DIPLOMA IN SOLAR TECHNOLOGY ADVANCED DIPLOMA IN DESIGN OF SOLAR UTILITY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "POWER",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN SOLAR ENERGY SYSTEM DESIGN DIPLOMA IN TRAINING ON INSTALLATION AND",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "MAINTENANCE OF SOLAR POWER PLANT DIPLOMA IN SOLAR PHOTOVOLTAIC ENGINEERING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "ASSISTANT",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN SENIOR SOLAR PHOTOVOLTAIC TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN JUNIOR SOLAR PHOTOVOLTAIC TECHNICIAN DIPLOMA IN SENIOR SOLAR PHOTOVOLTAIC PANEL",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "ASSEMBLING TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN SENIOR SOLAR PCU TECHNICIAN DIPLOMA IN SOLAR SYSTEM & INVERTER INSTALLATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "AND SERVICING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN SOLAR PV TECHNICAL SALES",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN SOLAR PV DESIGN AND INSTALLATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "DIPLOMA IN PV DESIGN USING PVSYST, PVSOL AND SAM",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "nutrition-and-health-science-training-sector",
+    "sector": "NUTRITION AND HEALTH SCIENCE TRAINING SECTOR",
+    "pdfFileName": "18.NUTRITION AND HEALTH SCIENCE TRAINING SECTOR.pdf",
+    "subcourseCount": 13,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "Year MANAGEMENT DIPLOMA IN HOLISTIC SCIENCE IN HEALTH, NUTRITION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "AND DIETETICS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "CERTIFICATE IN CHILD CARE NUTRITION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "CERTIFICATE IN NUTRITION & DIETETICS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "CERTIFICATE IN THE SCIENCE IN CLINICAL NUTRITION CERTIFICATE IN THE SCIENCE IN SPORTS & FITNESS",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "NUTRITION CERTIFICATE IN WEIGHT MANAGEMENT & SLIMMING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "THERAPIES",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "CERTIFICATE IN ONLINE PERSONALITY DEVELOPMENT",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "CERTIFICATE IN ONLINE NUTRITION & DIETETICS",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "CERTIFICATE IN ONLINE CLINICAL NUTRITION",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "CERTIFICATE IN ONLINE SPORTS & FITNESS",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "CERTIFICATE IN ONLINE NUTRITION IN COSMETOLOGY",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "CERTIFICATE IN ONLINE FAMILY & CHILD CARE",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "engineering-software-training-sector",
+    "sector": "ENGINEERING SOFTWARE TRAINING SECTOR",
+    "pdfFileName": "19.ENGINEERING SOFTWARE TRAINING SECTOR.pdf",
+    "subcourseCount": 48,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "CERTIFICATE IN STAAD PRO 45 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "CERTIFICATE IN REVIT ARCHITECTURE 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "CERTIFICATE IN 3DS MAX 45 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "CERTIFICATE IN TEKLA STRUCTURE 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "CERTIFICATE IN TEKLA STRUCTURE DESIGNER 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "CERTIFICATE IN ETABS 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "CERTIFICATE IN BIM-CIVIL ARCH 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "CERTIFICATE IN REVIT MEP (CIVIL) 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "CERTIFICATE IN REVIT STRUCTURE 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "CERTIFICATE IN AUTO-CAD MAP 3D 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "CERTIFICATE IN ARC GIS 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "CERTIFICATE IN SKETCH UP 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "CERTIFICATE IN ENSCAPE 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "CERTIFICATE IN TWINMOTION 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "CERTIFICATE IN PRIMAVERA 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "CERTIFICATE IN MS PROJECT 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "CERTIFICATE IN AUTO-CAD CIVIL 3D 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "CERTIFICATE IN V-RAY 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "CERTIFICATE IN LUMION 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "CERTIFICATE IN DESIGN IN CORELDRAW 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "CERTIFICATE IN ILLUSTRATOR 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "CERTIFICATE IN PHOTOSHOP 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "CERTIFICATE IN REVIT MEP (ELECTRICAL/ELECTRONICS) 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "CERTIFICATE IN AUTO-CAD ELECTRICAL 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "CERTIFICATE IN EPLAN ELECTRIC 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "CERTIFICATE IN ETAP 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "CERTIFICATE IN MATLAB 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "CERTIFICATE IN PLC 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "CERTIFICATE IN AUTO-CAD FOR MECHANICAL 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "CERTIFICATE IN SOLID WORKS 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "CERTIFICATE IN CNC PROGRAMMING 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "CERTIFICATE IN 3D PRINTING 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "CERTIFICATE IN CATIA 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "CERTIFICATE IN REVIT MEP 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "CERTIFICATE IN RHINO MECHANICAL 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "CERTIFICATE IN CREO 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "CERTIFICATE IN NX CAD 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "CERTIFICATE IN NX CAM 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "CERTIFICATE IN ART CAM 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "CERTIFICATE IN ANSYS WB 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "CERTIFICATE IN FUSION 360 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "CERTIFICATE IN AUTODESK INVENTOR 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "CERTIFICATE IN GD & T 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "CERTIFICATE IN EMBEDDED SYSTEMS 15 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "CERTIFICATE IN FASHION CAD 45 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "CERTIFICATE IN CORE JAVA 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "CERTIFICATE IN ADVANCE JAVA 30 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "CERTIFICATE IN MACHINE LEARNING 10 Hrs",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "beauty-and-wellness-training-sector",
+    "sector": "BEAUTY AND WELLNESS TRAINING SECTOR",
+    "pdfFileName": "2 .BEAUTY AND WELLNESS TRAINING SECTOR.pdf",
+    "subcourseCount": 96,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "ADVANCE DIPLOMA IN BEAUTY AND WELLNESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "ADVANCE DIPLOMA IN BEAUTICIAN AND HAIR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year STYLE 4 ADVANCE DIPLOMA IN WEIGHT MANAGEMENT AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year SLIMMING THERAPY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCE DIPLOMA IN BEAUTY AND WELLNESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "ADVANCE DIPLOMA IN BEAUTY PARLOUR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "ADVANCE DIPLOMA IN COSMETOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "ADVANCE DIPLOMA IN HAIR TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN BEAUTY AND WELLNESS",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "INTERNATIONAL DIPLOMA IN MAKEUP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "INTERNATIONAL DIPLOMA IN COSMETOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN GLOBAL ESTHIOLOGY PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN BEAUTY THERAPY AND SALON",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN BEAUTY THERAPY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN HAIR CUTTING AND SPA SALOON",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN COSMETOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN HAIR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "DIPLOMA IN BEAUTICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "DIPLOMA IN NATURAL BEAUTY CARE",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "DIPLOMA IN SPA THERAPY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "DIPLOMA IN HAIR STYLIST",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "DIPLOMA IN GLOBAL HAIR DRESSING PROGRAM",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "CERTIFICATE IN BEAUTICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "CERTIFICATE IN MEDIA MAKEUP",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "CERTIFICATE IN BEAUTY CULTURE",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "CERTIFICATE IN SELF GROOMING AND BRIDAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "Months MAKEUP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "CERTIFICATE IN PRO-MAKEUP ARTISTRY 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "CERTIFICATE IN ADVANCE PRO-MAKEUP ARTISTRY 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "CERTIFICATE IN PRO-BRIDAL MAKEUP ARTISTRY 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "CERTIFICATE IN SEMI PERMANENT MAKEUP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Month ARTIST",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "CERTIFICATE IN BB GLOW 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "CERTIFICATE IN HYDRA FACIAL 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "BASIC CERTIFICATE IN HAIR",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "ADVANCE CERTIFICATE IN HAIR",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "CERTIFICATE IN BEAUTY AESTHETIC 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "CERTIFICATE IN PHOTOFACIAL TREATMENT 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "CERTIFICATE IN TATTOO REMOVAL 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "CERTIFICATE IN LASER HAIR REDUCTION 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "CERTIFICATE IN DERMA NEEDLING 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "CERTIFICATE IN LASER HAIR THERAPY 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "CERTIFICATE IN FACIAL AESTHETICS 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "CERTIFICATE IN LASER AESTHETICS 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "CERTIFICATE IN PRO-HAIRSTYLING 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "CERTIFICATE IN SELF MAKEUP FOR WOMEN 3 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "CERTIFICATE IN BASIC HD BRIDAL MAKEUP 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "CERTIFICATE IN BRIDAL MAKEUP & HAIR STYLING",
+        "duration": "2 Weeks",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "CERTIFICATE IN ADVANCED BRIDAL MAKEUP &",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Month HAIR STYLING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "CERTIFICATE IN WEEKEND BRIDAL MAKEUP & HAIR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "Weekends STYLING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "CERTIFICATE IN SAREE DRAPING 3 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "CERTIFICATE IN ADVANCED MEHANDI ART",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "CERTIFICATE IN BEGINNER NAIL ARTISTRY",
+        "duration": "2 Weeks",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "CERTIFICATE IN ESTHIOLOGY",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "INTERNATIONAL CERTIFICATE IN ESTHIOLOGY",
+        "duration": "10 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "PROFESSIONAL CERTIFICATE IN ESTHIOLOGY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "CERTIFICATE IN PROFESSIONAL BEAUTY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "Months ARTISTRY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "CERTIFICATE IN HAIR FACULTY DEVELOPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "Months PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "CERTIFICATE IN MAKEUP FACULTY DEVELOPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "Months PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "CERTIFICATE IN SKIN FACULTY DEVELOPMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "Months PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "CERTIFICATE IN NUTRITION FACULTY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "Months DEVELOPMENT PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "CERTIFICATE IN STYLING TRENDS 12 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "CERTIFICATE IN BEGINNER'S HAIR DRESSING",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "CERTIFICATE IN ART OF HAIR DRESSING",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "CERTIFICATE IN BARBERING 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "CERTIFICATE IN PROFESSIONAL HAIR DRESSING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "Days PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "CERTIFICATE IN COMPREHENSIVE HAIR DRESSING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "Months PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "CERTIFICATE IN ABSOLUTE HAIR DRESSING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "Months PROGRAM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "CERTIFICATE IN SIGNATURE PRO ADVANCE HAIR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "Days STYLING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "CERTIFICATE IN SIGNATURE HAIR ARTIST",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "Days PORTFOLIO",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "CERTIFICATE IN WESTERN SPA THERAPIES 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "70",
+        "title": "CERTIFICATE IN ORIENTAL SPA THERAPIES 10 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "71",
+        "title": "CERTIFICATE IN INTERNATIONAL SPA 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "72",
+        "title": "CERTIFICATE IN ONLINE BRIDAL MAKEUP & HAIR",
+        "duration": "2 Weeks",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "73",
+        "title": "CERTIFICATE IN ONLINE SELF MAKEUP 2 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "74",
+        "title": "CERTIFICATE IN SFX MAKEUP WORKSHOP 2 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "75",
+        "title": "CERTIFICATE IN BEGINNERS PHOTOGRAPHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "Days WORKSHOP",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "76",
+        "title": "CERTIFICATE IN NUTRITIONAL GYNAECOLOGY",
+        "duration": "1 Week",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "77",
+        "title": "CERTIFICATE IN DIABETES EDUCATOR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "Weeks PROGRAMME",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "fire-and-safety-mangement-training-sector",
+    "sector": "FIRE AND SAFETY MANGEMENT TRAINING SECTOR",
+    "pdfFileName": "20.FIRE AND SAFETY MANGEMENT TRAINING SECTOR.pdf",
+    "subcourseCount": 43,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "Graduation MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "P.G. DIPLOMA IN FIRE AND SAFETY MANAGEMENT Graduation P.G. DIPLOMA IN OCCUPATIONAL SAFETY, HEALTH",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "Graduation & ENVIRONMENT MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "P.G. DIPLOMA IN FIRE AND SAFETY OFFICER Graduation P.G. DIPLOMA IN PETROCHEMICAL PROCESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "Graduation SAFETY ENGINEERING P.G. DIPLOMA IN ENVIRONMENT SAFETY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "Graduation MANAGEMENT P.G. DIPLOMA IN FIRE SAFETY & DISASTER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "Graduation MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "ADVANCE DIPLOMA IN INDUSTRIAL SAFETY Graduation ADVANCE DIPLOMA IN OCCUPATIONAL SAFETY,",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "Graduation HEALTH & ENVIRONMENT MANAGEMENT ADVANCE DIPLOMA IN OFFSHORE, RIG, OIL & GAS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "Graduation SAFETY ENGINEERING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "POST DIPLOMA IN INDUSTRIAL SAFETY Graduation DIPLOMA IN HEALTH, SAFETY AND ENVIRONMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "12th MANAGEMENT DIPLOMA IN PETROCHEMICAL & INDUSTRIAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "12th SAFETY ENGINEERING DIPLOMA IN OFFSHORE, RIG, OIL AND GAS",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "12th SAFETY ENGINEERING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN FIRE SUB OFFICER 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN INDUSTRIAL SAFETY 12th DIPLOMA IN FIRE & INDUSTRIAL SAFETY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "12th MANAGEMENT DIPLOMA IN PETROCHEMICAL PROCESS SAFETY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "12th ENGINEERING DIPLOMA IN FIRE SAFETY AND HAZARD",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "12th MANAGEMENT DIPLOMA IN INDUSTRIAL SAFETY & DISASTER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "DIPLOMA IN FIRE AND SAFETY 10th DIPLOMA IN INDUSTRIAL DISASTER HAZARDS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "10th AND RISK MANAGEMENT DIPLOMA IN CHEMICAL TRANSPORTATION AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "10th HAZARDS MANAGEMENT DIPLOMA IN DANGEROUS GOODS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "10th TRANSPORTATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "DIPLOMA IN FIRE FIGHTING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "DIPLOMA IN ROAD AND SAFETY MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "DIPLOMA IN FIREMAN TRAINING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "DIPLOMA IN DRIVER CUM PUMP OPERATOR 10th DIPLOMA IN FIRE SAFETY AND SECURITY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "10th MANAGEMENT DIPLOMA IN OCCUPATIONAL SAFETY, HEALTH",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "10th AND ENVIRONMENT MANAGEMENT DIPLOMA IN ENVIRONMENT SAFETY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "10th MANAGEMENT CERTIFICATE IN FIRE SAFETY AND HAZARD",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "10th MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "CERTIFICATE IN INDUSTRIAL SAFETY 10th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "CERTIFICATE IN SAFETY MANAGEMENT 10th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "CERTIFICATE IN FIREMAN TRAINING 10th",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "CERTIFICATE IN DRIVER CUM PUMP OPERATOR 10th CERTIFICATE IN FIRE SAFETY AND SECURITY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "10th MANAGEMENT CERTIFICATE IN PERMIT TO WORK",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "10th 2 Days COORDINATOR IN OIL & GAS INDUSTRY CERTIFICATE IN APPLIED PRINCIPLES OF",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "10th 30 Hrs WORKPLACE SAFETY COMPLIANCE CERTIFICATE IN DISASTER MANAGEMENT WITH",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "10th 30 Hrs ADVANCED EMERGENCY RESPONSE PRINCIPLES CERTIFICATE IN CONSTRUCTION INDUSTRY HSE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "MANAGEMENT SYSTEMS & PRACTITIONER 10th 30 Hrs RESPONSIBILITIES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "CERTIFIED IN LIFTING ENGINEER 10th 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "CERTIFIED IN SCAFFOLDING SUPERVISOR 10th 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "computer-and-advanced-software-education-training-sector",
+    "sector": "COMPUTER AND ADVANCED SOFTWARE EDUCATION TRAINING SECTOR",
+    "pdfFileName": "3.COMPUTER AND ADVANCED SOFTWARE EDUCATION TRAINING SECTOR.pdf",
+    "subcourseCount": 94,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "CORE PYTHON 20hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "ADVANCE PYTHON 60hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "CORE JAVA 35hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCE JAVA 35hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "J2EE 35hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "JSP 35hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "XML 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "ASP .NET 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "VB.NET 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "ADO.NET 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "PHP 31hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "MySQL 32hrs DIPLOMA / MASTER PROGRAMMES HOURS DURATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN COMPUTER TECHNOLOGY (DCT) 80hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN COMPUTER APPLICATIONS (DCA) 80hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "MASTER IN JAVA TECHNOLOGY (MJT) 80hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "MASTER IN DOT NET TECHNOLOGY (MNT) 80hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "MASTER IN SOFTWARE ENGINEERING (MSE) 80hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "MASTER IN SOFTWARE APPLICATION (MSA) 85hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "MASTER IN DATA SCIENCE (MDS) 85hrs ADVANCED TECHNOLOGY COURSES HOURS DURATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "SOFTWARE TESTING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "BIG DATA MASTERS 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "CLOUD MASTERS 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "DATA SCIENCE MASTERS 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "DEVOPS MASTERS 40hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "FULL STACK WEB DEVELOPMENT 85hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "DATA ANALYTICS 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "MACHINE LEARNING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "BUSINESS INTELLIGENCE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "ORACLE TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "SELENIUM TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "AWS TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "HADOOP TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "APACHE SPARK AND SCALA TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "TABLEAU TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "PYTHON TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "INFORMATICS TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "SAS TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "OPEN STACK TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "WEB DESIGN TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "NODE JS TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "PMP TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "ANDROID TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "SPRING TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "MANUAL TESTING TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "IOT TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "AZURE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "GOOGLE CLOUD 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "ARTIFICIAL INTELLIGENCE 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "CYBER SECURITY 45hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "IOS TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "ELK STACK TRAINING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "AI & DEEP LEARNING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "ROBOTIC PROCESS AUTOMATION (RPA) 80hrs ACCOUNTS COURSES HOURS DURATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "SAP 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "IT FOUNDATION - MS OFFICE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "ADVANCE EXCEL 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "TALLY ERP 9 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "TALLY PRIME 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "ADVANCE TALLY GST 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "OFFICE AUTOMATION (OA) 80hrs ADVANCE TRAINING IN OFFICE AUTOMATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "80hrs (ATOA) ADVANCE TRAINING IN ONLINE CERTIFIED",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "80hrs ACCOUNT (ATOCA) MASTER IN PROFESSIONAL ACCOUNTING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "80hrs (MPA)",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "MASTER IN FINANCE ACCOUNTING (MFA) 80hrs MULTIMEDIA HOURS DURATION",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "PHOTOSHOP AI 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "DIGITAL MARKETING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "GRAPHIC DESIGNING (GD) 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "WEB DESIGNING (WD) 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "70",
+        "title": "MULTIMEDIA EDITOR (ME) 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "71",
+        "title": "CERTIFICATE IN 2D ANIMATION 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "72",
+        "title": "CERTIFICATE IN 3D ANIMATION 80hrs MASTER IN MULTIMEDIA DESIGNING &",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "73",
+        "title": "80hrs EDITING (MMDE) MASTER IN MULTIMEDIA GRAPHICS &",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "74",
+        "title": "80hrs ANIMATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "75",
+        "title": "MASTER IN MULTIMEDIA VISUALIZER (MMV) 80hrs HARDWARE & NETWORKING COURSES HOURS DURATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "76",
+        "title": "HARDWARE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "77",
+        "title": "NETWORKING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "78",
+        "title": "CCNA 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "79",
+        "title": "ETHICAL HACKING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "80",
+        "title": "MASTER IN SYSTEM ENGINEERING (MSEN) 80hrs IT/ITES HOURS DURATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "81",
+        "title": "DOMESTIC DATA ENTRY OPERATOR 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "82",
+        "title": "DOMESTIC BIOMETRIC DATA OPERATOR 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "83",
+        "title": "DOMESTIC IT HELPDESK ATTENDANT 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "84",
+        "title": "ASSOCIATE DESKTOP PUBLISHING 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "85",
+        "title": "CRM DOMESTIC VOICE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "86",
+        "title": "CRM DOMESTIC NON VOICE 80hrs",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "87",
+        "title": "TECHNICAL SUPPORT EXECUTIVE (VOICE) 80hrs TECHNICAL SUPPORT EXECUTIVE (NON",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "88",
+        "title": "80hrs VOICE) BPO / SOFT SKILLS & COMMUNICATIVE",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "89",
+        "title": "80hrs ENGLISH BASIC COMPUTER APPLICATION HOURS DURATION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "90",
+        "title": "POST DIPLOMA IN COMPUTER APPLICATIONS 160hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "91",
+        "title": "DIPLOMA IN COMPUTER APPLICATIONS 160hrs",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "92",
+        "title": "CERTIFICATE IN AUTO CAD 53hrs",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "93",
+        "title": "MS OFFICE 26hrs",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "94",
+        "title": "COREL DRAW 53hrs",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "95",
+        "title": "EXCEL 26hrs",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "computer-hardware-and-networking-training-sector",
+    "sector": "COMPUTER HARDWARE AND NETWORKING TRAINING SECTOR",
+    "pdfFileName": "4.COMPUTER HARDWARE AND NETWORKING TRAINING SECTOR.pdf",
+    "subcourseCount": 20,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "P.G. DIPLOMA IN COMPUTER HARDWARE GRADUATION & NETWORKING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN NETWORKING TECHNOLOGY 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN LAPTOP AND DESKTOP 12th ASSEMBLING & REPAIRING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "DIPLOMA IN MOBILE REPAIRING & 10th MAINTENANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN PCB ASSEMBLING 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "CERTIFICATE IN AC PCB REPAIRING 10th",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "CERTIFICATE IN SMART LED/LCD TV 10th REPAIRING",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "CERTIFICATE IN CCTV CAMERA 10th TECHNICIAN",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "CERTIFICATE IN EV CONTROLLER 10th REPAIRING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "CERTIFICATE IN EV CHARGER REPAIRING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "CERTIFICATE IN EV MOTOR REPAIRING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "CERTIFICATE IN INVERTER REPAIRING 10th COURSES",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "CERTIFICATE IN COMPUTER NETWORKING 10th",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN SYSTEM AND NETWORK 10th ADMINISTRATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN COMPUTER HARDWARE & 10th NETWORKING WITH LINUX SPECIALIZATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "CERTIFICATE IN ONLINE LAPTOP REPAIRING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "CERTIFICATE IN ONLINE MOBILE REPAIRING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "CERTIFICATE IN ONLINE PRINTER 10th REPAIRING",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "CERTIFICATE IN ONLINE LED TV REPAIRING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "CERTIFICATE IN ONLINE CCTV TRAINING 10th",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "fashion-designing-textile-training-sector",
+    "sector": "FASHION DESIGNING TEXTILE TRAINING SECTOR",
+    "pdfFileName": "5.FASHION DESIGNING TEXTILE TRAINING SECTOR.pdf",
+    "subcourseCount": 76,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "P.G. DIPLOMA IN FASHION AND DRESS DESIGNING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "P.G. DIPLOMA IN FASHION BUSINESS MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "P.G. DIPLOMA IN INTERIOR DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "P.G. DIPLOMA IN FASHION AND APPAREL DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCE DIPLOMA IN FASHION AND DRESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "ADVANCE DIPLOMA IN FINE ARTS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "ADVANCED DIPLOMA IN FASHION & GARMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "ADVANCED DIPLOMA IN COMPUTER AIDED FASHION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "Years TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN FASHION BUSINESS MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN FASHION PHOTOGRAPHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN FASHION AND APPAREL DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN JEWELLERY DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIPLOMA IN INTERIOR DECORATION AND DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN TEXTILE DESIGN AND PRINTING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN TEXTILE TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN FINE ARTS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "DIPLOMA IN FASHION DESIGN AND CUTTING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year TAILORING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "DIPLOMA IN FASHION TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "DIPLOMA IN COMPUTERISED FASHION DESIGNING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "DIPLOMA IN DRESS MAKING TECHNIQUES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "DIPLOMA IN SHIRT & PANT MAKING TECHNIQUES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "DIPLOMA IN TAILORING TRAINER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "DIPLOMA IN GARMENT TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "DIPLOMA IN COSTUME DESIGNING TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "DIPLOMA IN COMPUTER AIDED PATTERN MAKING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "DIPLOMA IN HAIR DRESSING TECHNIQUES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "POST DIPLOMA IN COMPUTER AIDED FASHION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year DESIGNING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "DIPLOMA IN WOMEN'S MASTER DESIGNER",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "DIPLOMA IN FASHION DESIGNER (FOR GARMENTS)",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "DIPLOMA IN APPAREL MANUFACTURING & ADVANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "Months PATTERN MAKING TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "DIPLOMA IN CUTTING AND TAILORING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "CERTIFICATE IN FASHION TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "CERTIFICATE IN CUTTING AND TAILORING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "CERTIFICATE IN BLOUSE DESIGNING",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "CERTIFICATE IN WEDDING BLOUSE COLLECTIONS",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "CERTIFICATE IN BASIC AARI EMBROIDERY",
+        "duration": "2 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "CERTIFICATE IN ADVANCED AARI EMBROIDERY",
+        "duration": "4 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "CERTIFICATE IN SEWING BASIC FIRST STAGE",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "CERTIFICATE IN SEWING BASIC SECOND STAGE",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "CERTIFICATE IN SEWING ADVANCED COURSE",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "CERTIFICATE IN POWER MACHINE EMBROIDERY 20 Days",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "BAG MAKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "BOUTIQUE MANAGEMENT",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "EMBROIDERY STITCHING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "FABRIC DESIGNING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "FASHION STYLING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "GARMENT MAKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "JEWELLERY MAKING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "ADVANCED TAILOR",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "COSTUME DESIGNING & DRESS MAKING SKILLS",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "FASHION DESIGNING TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "FASHION DESIGNING ASSISTANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "MACHINE EMBROIDERY",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "HAND EMBROIDERY",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "WOOL KNITTING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "LACE MAKING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "DECORATIVE STITCHES",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "CROCHET WORK",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "BATIK PRINTING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "FABRIC PAINTING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "RUBBER PAINTING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "SAREE DESIGNING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "SMOCKING WORKS",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "ELECTRIC EMBROIDERY MACHINE OPERATOR",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "BASIC TAILORING",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "CUSHION AND PILLOW MAKING",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "CHICKAN WORK",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "APPLIQUE WORK",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "QUILT WORK",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "office-mangement-education-sector",
+    "sector": "OFFICE MANGEMENT EDUCATION SECTOR",
+    "pdfFileName": "6.OFFICE MANGEMENT EDUCATION SECTOR (1).pdf",
+    "subcourseCount": 75,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "P.G. DIPLOMA IN RURAL MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "P.G. DIPLOMA IN POWER PLANT MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "P.G. DIPLOMA IN BUSINESS MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "P.G. DIPLOMA IN DAIRY MANAGEMENT Graduation P.G. DIPLOMA IN SALES & MARKETING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "Graduation MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "P.G. DIPLOMA IN FINANCE MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "P.G. DIPLOMA IN IT MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "P.G. DIPLOMA IN HOSPITAL MANAGEMENT Graduation P.G. DIPLOMA IN HUMAN RESOURCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "Graduation MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "P.G. DIPLOMA IN RETAIL MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "P.G. DIPLOMA IN NGO MANAGEMENT Graduation P.G. DIPLOMA IN INSURANCE & RISK",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "Graduation MANAGEMENT P.G. DIPLOMA IN AGRI-BUSINESS",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "Graduation MANAGEMENT P.G. DIPLOMA IN BANKING OPERATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "Graduation MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "P.G. DIPLOMA IN PROJECT MANAGEMENT Graduation P.G. DIPLOMA IN OPERATION AND RESEARCH",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "Graduation MANAGEMENT P.G. DIPLOMA IN MEDICAL TOURISM",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "Graduation MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "P.G. DIPLOMA IN DISASTER MANAGEMENT Graduation",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "MASTER OF BUSINESS ADMINISTRATION (HR) Graduation MASTER OF BUSINESS ADMINISTRATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "Graduation (MARKETING) MASTER OF BUSINESS ADMINISTRATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "Graduation (FINANCE) MASTER OF BUSINESS ADMINISTRATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "Graduation (MATERIAL) MASTER OF BUSINESS ADMINISTRATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "Graduation (HOSPITAL) MASTER OF BUSINESS ADMINISTRATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "Graduation (SPORTS MANAGEMENT) MASTER OF LIBRARY AND INFORMATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "Graduation SCIENCES ADVANCE DIPLOMA IN LIBRARY AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "12th INFORMATION SCIENCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "ADVANCE DIPLOMA IN OFFICE MANAGEMENT 12th ADVANCE DIPLOMA IN MEDICAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "12th REPRESENTATIVES SALES & MANAGEMENT ADVANCE DIPLOMA IN HUMAN RESOURCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "12th DEVELOPMENT ADVANCE DIPLOMA IN POWER PLANT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN OPERATION AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "12th RESEARCH MANAGEMENT ADVANCE DIPLOMA IN INSURANCE AND RISK",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "ADVANCE DIPLOMA IN NGO MANAGEMENT 12th ADVANCE DIPLOMA IN TRADE FAIR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN EXPORT IMPORT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "ADVANCE DIPLOMA IN GST MANAGEMENT 12th ADVANCE DIPLOMA IN DISASTER",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN PRODUCTION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN MATERIALS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN SUPPLY CHAIN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN WAREHOUSE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "ADVANCE DIPLOMA IN QUALITY MANAGEMENT 12th ADVANCE DIPLOMA IN PACKAGING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN ENVIRONMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "45",
+        "title": "12th POLLUTION CONTROL MANAGEMENT ADVANCE DIPLOMA IN HOSPITAL",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "46",
+        "title": "12th MANAGEMENT ADVANCE DIPLOMA IN MEDICAL TOURISM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "47",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "48",
+        "title": "ADVANCE DIPLOMA IN RURAL MANAGEMENT 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "49",
+        "title": "ADVANCE DIPLOMA IN IT MANAGEMENT 12th ADVANCE DIPLOMA IN SALES AND MARKETING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "50",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "51",
+        "title": "ADVANCE DIPLOMA IN RETAIL MANAGEMENT 12th CERTIFIED PROFESSIONAL IN SUPPLY CHAIN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "52",
+        "title": "12th MANAGEMENT INTERNATIONAL DIPLOMA IN SUPPLY CHAIN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "53",
+        "title": "12th MANAGEMENT DIPLOMA IN REGULATORY AFFAIR AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "54",
+        "title": "12th QUALITY ASSURANCE DIPLOMA IN QUALITY CONTROL AND QUALITY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "55",
+        "title": "12th ASSURANCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "56",
+        "title": "DIPLOMA IN PURCHASE MANAGEMENT 12th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "57",
+        "title": "DIPLOMA IN QUALITY MANAGEMENT 12th DIPLOMA IN BANKING OPERATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "58",
+        "title": "12th MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "59",
+        "title": "DIPLOMA IN QUALITY ASSURANCE 10th DIPLOMA IN ENVIRONMENT POLLUTION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "60",
+        "title": "10th CONTROL MANAGEMENT DIPLOMA IN MANAGEMENT INFORMATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "61",
+        "title": "10th SYSTEM",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "62",
+        "title": "DIPLOMA IN PRODUCTION MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "63",
+        "title": "DIPLOMA IN DISASTER MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "64",
+        "title": "DIPLOMA IN EXPORT IMPORT MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "65",
+        "title": "DIPLOMA IN NGO MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "66",
+        "title": "DIPLOMA IN TRADE FAIR MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "67",
+        "title": "DIPLOMA IN MATERIAL MANAGEMENT 10th DIPLOMA IN RURAL DEVELOPMENT AND",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "68",
+        "title": "10th EDUCATION MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "69",
+        "title": "DIPLOMA IN SUPPLY CHAIN MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "70",
+        "title": "DIPLOMA IN WAREHOUSE MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "71",
+        "title": "DIPLOMA IN QUALITY CONTROL 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "72",
+        "title": "DIPLOMA IN LOGISTIC MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "73",
+        "title": "DIPLOMA IN PUBLIC PROCUREMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "74",
+        "title": "DIPLOMA IN STORE MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "75",
+        "title": "DIPLOMA IN CONTRACT MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "76",
+        "title": "DIPLOMA IN PACKAGING MANAGEMENT 10th",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "communicative-and-soft-skills-education-sector",
+    "sector": "COMMUNICATIVE & SOFT SKILLS EDUCATION SECTOR",
+    "pdfFileName": "7.COMMUNICATIVE & SOFT SKILLS EDUCATION SECTOR.pdf",
+    "subcourseCount": 13,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "P.G. DIPLOMA IN FASHION AND DRESS DESIGNING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "P.G. DIPLOMA IN FASHION BUSINESS MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "P.G. DIPLOMA IN INTERIOR DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "P.G. DIPLOMA IN FASHION AND APPAREL DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "ADVANCE DIPLOMA IN FASHION AND DRESS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year DESIGN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "ADVANCE DIPLOMA IN FINE ARTS",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "ADVANCED DIPLOMA IN FASHION & GARMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "1",
+        "title": "Year TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "ADVANCED DIPLOMA IN COMPUTER AIDED FASHION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "Years TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN FASHION BUSINESS MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN FASHION PHOTOGRAPHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "media-and-photography-training-sector-1",
+    "sector": "MEDIA AND PHOTOGRAPHY TRAINING SECTOR 1",
+    "pdfFileName": "8.MEDIA AND PHOTOGRAPHY TRAINING SECTOR 1 (1).pdf",
+    "subcourseCount": 25,
+    "subcourses": [
+      {
+        "slNo": "1",
+        "title": "Year COMMUNICATION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "2",
+        "title": "ADVANCED DIPLOMA IN DIRECTION",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN VISUAL MEDIA",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "DIPLOMA IN DIGITAL CINEMATOGRAPHY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN DIRECTION & SCREEN PLAY WRITING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "DIPLOMA IN CINEMA ACTING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN JOURNALISM & MASS COMMUNICATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN VISUAL COMMUNICATION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN EDITING, VFX & DIGITAL INTERMEDIATE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN ADVERTISING & MEDIA COMMUNICATION DIPLOMA IN RADIO, VIDEO JOCKEY & NEWS",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "READING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN DIGITAL PHOTOGRAPHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "DIGITAL VIDEOGRAPHY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "FILM EDITING - NON LINEAR EDITING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DARK ROOM TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "DIPLOMA IN SOUND ENGINEERING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "AUDIO-VISUAL EFFECTS TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "DIPLOMA IN SCREEN PLAY WRITING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "DIPLOMA IN CINEMATOGRAPHY DIPLOMA IN RECORDING ARTS & MUSIC",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "TECHNOLOGY",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "DIPLOMA IN EDITING, VFX",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "DIPLOMA IN ADVERTISING SOUND EDITING IN COMPUTER DUBBING-",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "RECORDING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "RADIO JOCKEY",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "CERTIFICATE IN DIRECTION & SCRIPT WRITING",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      }
+    ]
+  },
+  {
+    "id": "agriculture-education-training-sector",
+    "sector": "AGRICULTURE EDUCATION TRAINING SECTOR",
+    "pdfFileName": "9.AGRICULTURE EDUCATION TRAINING SECTOR (1).pdf",
+    "subcourseCount": 43,
+    "subcourses": [
+      {
+        "slNo": "2",
+        "title": "DIPLOMA IN HORTICULTURE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "3",
+        "title": "DIPLOMA IN COLD STORAGE TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "4",
+        "title": "DIPLOMA IN PLANT PROTECTION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "5",
+        "title": "DIPLOMA IN MEDICINAL PLANTS PROCESSING",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "6",
+        "title": "DIPLOMA IN AGRICULTURE SCIENCE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "7",
+        "title": "DIPLOMA IN AGRICULTURE",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "8",
+        "title": "DIPLOMA IN AGRO-BASED INDUSTRIAL MANAGEMENT",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "9",
+        "title": "DIPLOMA IN CROPS PRODUCTION",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "10",
+        "title": "DIPLOMA IN MEDICINAL PLANT CULTIVATION TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "11",
+        "title": "DIPLOMA IN FOOD PRESERVATION TECHNOLOGY",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "12",
+        "title": "DIPLOMA IN FOOD TECHNOLOGY DIPLOMA IN PLANT PROTECTION AND PESTICIDES",
+        "duration": "2 Years",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "13",
+        "title": "MANAGEMENT",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "14",
+        "title": "DIPLOMA IN HORTICULTURE SUPERVISOR TRAINING",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "15",
+        "title": "DIPLOMA IN VOCATIONAL INSTRUCTOR (CROP PRODUCTION)",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "16",
+        "title": "BEE KEEPING EQUIPMENT MANUFACTURING TECHNIQUES",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "17",
+        "title": "FARM EQUIPMENT MECHANIC",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "18",
+        "title": "TRACTOR AND POWER TILLER MECHANIC",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "19",
+        "title": "AGRICULTURE SUPERVISOR",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "20",
+        "title": "PLANT PROTECTION TECHNICIAN",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "21",
+        "title": "CERTIFICATE IN AGRICULTURE SCIENCE",
+        "duration": "1 Year",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "22",
+        "title": "COCONUT BY-PRODUCTS PROCESSING TECHNICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "23",
+        "title": "HORTICULTURE SALESMAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "24",
+        "title": "PRESERVATION TECHNICIAN (HORTICULTURAL)",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "25",
+        "title": "LABORATORY TECHNICIAN (HORTICULTURAL)",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "26",
+        "title": "FLORICULTURE TECHNICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "27",
+        "title": "FLOWERS AND PLANTS PACKAGING TECHNICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "28",
+        "title": "LAND SPACING TECHNICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "29",
+        "title": "FLORIST SALESMAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "30",
+        "title": "VERMICULTURE TECHNICIAN",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "31",
+        "title": "IRRIGATION EQUIPMENT MECHANIC",
+        "duration": "6 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "32",
+        "title": "CERTIFICATE IN AGRICULTURE CROP PRODUCTION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "33",
+        "title": "MUSHROOM CULTIVATION AND PROTECTION",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "34",
+        "title": "RAIN WATER HARVESTING TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "35",
+        "title": "SOIL CONSERVATION TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "36",
+        "title": "SEED PRODUCTION TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "37",
+        "title": "APIARY TECHNICIAN",
+        "duration": "3 Months",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "38",
+        "title": "PLANT NURSERY MAKING",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "39",
+        "title": "WATER SHED PROTECTION AND MANAGEMENT",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "40",
+        "title": "FODDER CROPS CULTIVATION",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "41",
+        "title": "HONEY BEE KEEPING TECHNICIAN",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "42",
+        "title": "VANILLA CULTIVATION PLANT PROTECTION",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "43",
+        "title": "HONEY PROCESSING TECHNICIAN",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      },
+      {
+        "slNo": "44",
+        "title": "AZZOLA CULTIVATION TECHNICIAN",
+        "duration": "1 Month",
+        "qualification": "10th / 12th"
+      }
+    ]
+  }
+]

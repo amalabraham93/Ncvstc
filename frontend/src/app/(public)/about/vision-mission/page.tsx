@@ -91,13 +91,11 @@ export default function VisionMissionPage() {
                 Empowering Future Professionals Through Skill-Based Education
               </h2>
 
-              <p className="text-gray-600 leading-8 text-lg">
-                NCVSTC envisions becoming a leading vocational education
-                institution that transforms learners into highly skilled,
-                responsible, and globally competitive professionals through
-                innovation, practical training, technology integration, and
-                industry collaboration.
-              </p>
+              <ul className="list-disc pl-5 text-gray-600 leading-8 text-lg space-y-2">
+                  <li>To enhance vocational education by developing industry-oriented courses, modern training methods, and advanced learning technologies aligned with current labour market demands.</li>
+                  <li>To strengthen the quality of skill development through teacher training, programme evaluation, and continuous improvement in vocational education systems.</li>
+                  <li>To promote innovation, collaboration, and professional growth by supporting vocational institutions, encouraging research initiatives, and expanding participation in skill development networks.</li>
+              </ul>
 
             </div>
 
@@ -114,21 +112,18 @@ export default function VisionMissionPage() {
                 </div>
 
                 <span className="uppercase tracking-widest text-sm font-semibold text-[#7FE5D8]">
-                  Our Commitment
+                  Our Mission
                 </span>
 
                 <h2 className="font-serif text-3xl font-bold mt-3 mb-6">
                   Dedicated to Quality Vocational Education
                 </h2>
 
-                <p className="text-slate-300 leading-8 text-lg">
-                  NCVSTC is committed to delivering modern,
-                  technology-driven, and skill-focused education that prepares
-                  students to meet global employment standards and emerging
-                  industry demands. By integrating innovation, quality training,
-                  and professional mentorship, we continue contributing towards
-                  national skill development and sustainable career growth.
-                </p>
+                <ul className="list-disc pl-5 text-slate-300 leading-8 text-lg space-y-2">
+                  <li>To provide innovative and simplified educational frameworks in formal and informal learning systems that support lifelong skill development and career growth.</li>
+                  <li>To build strong national and international collaborations while creating centres for educational excellence, consulting, and recognition of informal learning.</li>
+                  <li>To ensure high-quality vocational and technical education by developing professional networks, promoting industry-relevant training, and empowering student success.</li>
+                </ul>
 
               </div>
 

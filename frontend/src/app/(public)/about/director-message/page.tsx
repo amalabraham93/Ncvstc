@@ -41,16 +41,16 @@ export default function DirectorMessagePage() {
                                 </h3>
                                 <div className="space-y-6 text-[#4A5568] text-lg leading-relaxed">
                                     <p>
-                                        India is a resource of massive manpower and for the development of our country using this resource, NCVSTC leads the race by taking a proactive step to converge a wave of skill development in India by giving recognized certified training with present market relevant skills. The advantage of skill development wherein the implementation of such schemes will make a strong impact in empowering socio-economic status, mitigate poverty, reduce social challenges, and economic inclusion.
+                                        Welcome to NCVSTC – Navigating Career for Vocational Skill Technology Council.
                                     </p>
                                     <p>
-                                        Candidate joining these vocational courses will get an idea to find and sculpt their hidden inner talent, which will make their responsible character recognized in the society and will make them stand on their own feet and altogether will increase the work force of our country by making the livelihood of the millions of Indians.
+                                        India has immense human potential, and skill development plays a vital role in transforming this strength into national progress. NCVSTC is committed to empowering youth through industry-relevant vocational education, certified training programmes, and professional skill development initiatives aligned with current market needs.
                                     </p>
                                     <p>
-                                        NCVSTC aims to catalyze skilling initiatives that can have a good impact in the economy and skill development. The quality team at NCVSTC focuses on enabling standardized structure to enhance the skill development across the country. All skill training programs adheres to the National Standards. To assure consistency and quality of skilling across the training initiatives for various jobs across the country, NCVSTC coordinates and leads many VTCs. NCVSTC evaluate the performance of skill development programs in different VTCs, to foster excellence and build effectiveness in training which enables the trainees to make informed choices regarding Training Centers.
+                                        Our mission is to help students discover their talents, enhance employability, and build successful careers through quality education and practical training. By coordinating with vocational training centres across the country, NCVSTC ensures standardized training, quality assessment, and nationally aligned skill programmes.
                                     </p>
                                     <p>
-                                        I would like to congratulate the candidates who had joined NCVSTC courses and those who have made a positive decision to join. Along with improvising the education, we have also worked on the entire process, starting from admission till getting the certificate. I encourage the students to get enrolled in different courses, and also get participated in various events organized by NCVSTC at regular intervals. NCVSTC will provide quality training and will play a vital role in professional skills development.
+                                        We encourage students to participate actively in our courses and development initiatives to build confidence, knowledge, and career opportunities. NCVSTC remains dedicated to creating a skilled, self-reliant, and future-ready workforce for the nation.
                                     </p>
                                 </div>
                             </div>

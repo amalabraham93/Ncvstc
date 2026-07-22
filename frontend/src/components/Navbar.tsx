@@ -10,7 +10,13 @@ import { useAuthStore } from '@/lib/store';
 import { useState } from 'react';
 import './Navbar.scss';
 
-const navLinks = [
+interface NavLink {
+    title: string;
+    href?: string;
+    subLinks?: NavLink[];
+}
+
+const navLinks: NavLink[] = [
     { title: "Home", href: "/" },
     {
         title: "About",
@@ -18,17 +24,7 @@ const navLinks = [
             { title: "About Us", href: "/about/about-us" },
             { title: "Vision & Mission", href: "/about/vision-mission" },
             { title: "Organization Chart", href: "/about/organization-chart" },
-            { title: "Branches", href: "/about/branches" },
             { title: "Director Message", href: "/about/director-message" },
-            {
-                title: "Office",
-                href: "/about/office",
-                subLinks: [
-                    { title: "State Programme Office (SPO)", href: "/about/office/spo" },
-                    { title: "District Regional Office (DRO)", href: "/about/office/dro" },
-                    { title: "Zonal Offices", href: "/about/office/zonal" },
-                ],
-            },
         ],
     },
     {
@@ -40,48 +36,11 @@ const navLinks = [
         ],
     },
     {
-        title: "Programs",
-        subLinks: [
-            { title: "Student Dev Schemes", href: "/programs/student-schemes" },
-            { title: "Institution Dev Schemes", href: "/programs/institutional-schemes" },
-            { title: "Staff Dev Schemes", href: "/programs/staff-schemes" },
-            { title: "Vocational Initiatives", href: "/programs/vocational-initiatives" },
-            { title: "Community College", href: "/programs/community-college" },
-            { title: "Skill Dev Initiatives", href: "/programs/skill-development" },
-        ],
-    },
-    {
-        title: "Resources",
-        subLinks: [
-            { title: "Question Bank", href: "/resources/question-bank" },
-            { title: "Syllabus", href: "/resources/syllabus" },
-            { title: "Study Materials", href: "/resources/study-materials" },
-            { title: "Student Login", href: "/login" },
-        ],
-    },
-    {
         title: "Registration",
         subLinks: [
             { title: "Offline Registration", href: "/registration/offline" },
             { title: "Online Registration", href: "/registration/online" },
             { title: "Internship Application", href: "/registration/internship" },
-        ],
-    },
-    {
-        title: "Examination",
-        subLinks: [
-            { title: "Exam Schedule", href: "/examination/schedule" },
-            { title: "Exam Center", href: "/examination/center" },
-            { title: "Result", href: "/examination/result" },
-        ],
-    },
-    {
-        title: "Verification",
-        subLinks: [
-            { title: "Cert Verification", href: "/verify/cert-verification" },
-            { title: "Marksheet Verification", href: "/verify/marksheet" },
-            { title: "Verify Document", href: "/verify/verify-doc" },
-            { title: "Model Certificates", href: "/verify/model-certs" },
         ],
     },
     {
@@ -126,7 +85,7 @@ const MobileMenuItem = ({ item, level = 0, onClickHref }: { item: any, level?: n
 
     if (!item.subLinks) {
         return (
-            <Link href={item.href} className={`block ${pl} py-3.5 text-[14px] font-semibold text-[#4A5568] border-b border-gray-100 hover:bg-[#EEF4FF] hover:text-[#0F7B6C] transition-colors`} onClick={onClickHref}>
+            <Link href={item.href || '#'} className={`block ${pl} py-3.5 text-[14px] font-semibold text-[#4A5568] border-b border-gray-100 hover:bg-[#EEF4FF] hover:text-[#0F7B6C] transition-colors`} onClick={onClickHref}>
                 {item.title}
             </Link>
         );
@@ -216,7 +175,7 @@ export default function Navbar() {
                                                     {sub.subLinks.map((deepSub, deepIdx) => (
                                                         <Link
                                                             key={deepIdx}
-                                                            href={deepSub.href}
+                                                            href={deepSub.href || '#'}
                                                             className="subLink"
                                                         >
                                                             {deepSub.title}

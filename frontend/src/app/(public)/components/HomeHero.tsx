@@ -41,12 +41,12 @@ const HomeHero: React.FC = () => {
                             </div>
 
                             <h1 className="hero-title">
-                                Navigating Careers Through
-                                <span className="gradient-text"> Skill & Vocational Education</span>
+                                Welcome to
+                                <span className="gradient-text"> NCVSTC</span>
                             </h1>
 
                             <p className="hero-subtitle">
-                                NCVSTC – National Council for Vocational Skill Technology Council
+                                Empowering India with Skill, Knowledge, and Professional Excellence!
                             </p>
 
                             <div className="hero-badges">
@@ -68,10 +68,7 @@ const HomeHero: React.FC = () => {
                             <div className="hero-quote">
                                 <div className="quote-mark">"</div>
                                 <p>
-                                    NCVSTC is dedicated to promoting accessible, affordable, and career-oriented
-                                    vocational education through Online, Open, and Distance Learning systems.
-                                    The council focuses on empowering students, youth, and working professionals
-                                    with industry-relevant skills across India and Asia.
+                                    The Navigating Career for Vocational Skill Technology Council (NCVSTC) is an autonomous and non-governmental educational organization committed to enhancing vocational and technical education across India.
                                 </p>
                             </div>
 
@@ -305,24 +302,9 @@ const HomeHero: React.FC = () => {
                             <span className="section-badge">About Us</span>
                             <h2>About <span className="gradient-text">NCVSTC</span></h2>
                             <p className="about-highlight">
-                                NCVSTC Vocational Education Council works towards creating a skilled,
-                                employable, and self-reliant generation through quality vocational
-                                education and professional development initiatives.
+                                Our primary objective is to develop a skilled workforce by providing industry-oriented training, professional certifications, and entrepreneurial guidance. We work closely with Vocational Training Centres (VTCs), industries, and educational institutions to bridge the gap between education and employment, ensuring that learners are well-equipped to meet national and global standards.
                             </p>
-                            <p>
-                                The council supports skill enhancement, entrepreneurship, and
-                                employment-focused training programmes aligned with evolving industry
-                                requirements. Through modern teaching methodologies and technology-enabled
-                                learning, NCVSTC ensures students gain practical knowledge, professional
-                                competence, and career readiness.
-                            </p>
-                            <p>
-                                Our certification and verification systems are designed to support
-                                educational progression, professional recognition, and employment
-                                opportunities in private sectors, multinational companies, industries,
-                                and international employment environments.
-                            </p>
-                            <div className="about-tags">
+                            <div className="about-tags mt-6">
                                 <span className="about-tag">🎯 Skill Enhancement</span>
                                 <span className="about-tag">🚀 Entrepreneurship</span>
                                 <span className="about-tag">💼 Employment Focus</span>
@@ -333,44 +315,23 @@ const HomeHero: React.FC = () => {
                             <div className="vision-card">
                                 <div className="vision-glow"></div>
                                 <div className="vision-icon-wrapper">
-                                    <span className="vision-icon">🌍</span>
+                                    <span className="vision-icon">🌟</span>
                                 </div>
-                                <h3>Vision & Commitment</h3>
-                                <p className="vision-text">
-                                    NCVSTC is committed to delivering modern, technology-driven, and
-                                    skill-focused education that prepares students to meet global employment
-                                    standards and emerging industry demands.
+                                
+                                <h3 className="mb-2">Who We Are</h3>
+                                <p className="vision-text text-sm mb-4">
+                                    NCVSTC operates as a leading skill development and educational council, focusing on quality training, standardizing vocational education, and promoting self-reliance among students.
                                 </p>
-                                <div className="vision-list">
-                                    <div className="vision-item">
-                                        <span className="vision-check">✦</span>
-                                        <span>Practical and industry-integrated education</span>
-                                    </div>
-                                    <div className="vision-item">
-                                        <span className="vision-check">✦</span>
-                                        <span>Employability and entrepreneurship skills</span>
-                                    </div>
-                                    <div className="vision-item">
-                                        <span className="vision-check">✦</span>
-                                        <span>Innovation, professionalism, and lifelong learning</span>
-                                    </div>
-                                    <div className="vision-item">
-                                        <span className="vision-check">✦</span>
-                                        <span>Equal access across rural and urban communities</span>
-                                    </div>
-                                    <div className="vision-item">
-                                        <span className="vision-check">✦</span>
-                                        <span>Responsible, skilled, and future-ready professionals</span>
-                                    </div>
-                                </div>
-                                <div className="vision-footer">
-                                    <span className="vision-quote">"</span>
-                                    <p>
-                                        By integrating technology, quality training systems, and professional
-                                        mentorship, NCVSTC continues to contribute towards national skill
-                                        development and sustainable career growth.
-                                    </p>
-                                </div>
+
+                                <h3 className="mb-2">What We Do</h3>
+                                <p className="vision-text text-sm mb-4">
+                                    We certify skill development programmes, manage VTCs, conduct standardized assessments, and offer placement assistance to support career growth.
+                                </p>
+                                
+                                <h3 className="mb-2">Why Choose Us?</h3>
+                                <p className="vision-text text-sm">
+                                    Industry-aligned curriculum, nationally recognized certification, continuous skill enhancement, and strong corporate tie-ups for employment generation.
+                                </p>
                             </div>
                         </div>
                     </div>
@@ -390,42 +351,34 @@ const HomeHero: React.FC = () => {
                     <div className="career-grid">
                         <div className="career-card">
                             <div className="career-icon-wrapper">
+                                <span className="career-icon">🚀</span>
+                            </div>
+                            <h4>Skill Development</h4>
+                            <p>Empowering youth with technical and professional skills for a brighter career.</p>
+                            <div className="career-hover-glow"></div>
+                        </div>
+                        <div className="career-card">
+                            <div className="career-icon-wrapper">
+                                <span className="career-icon">🔧</span>
+                            </div>
+                            <h4>Vocational Training</h4>
+                            <p>Practical, job-oriented training programmes for various industrial sectors.</p>
+                            <div className="career-hover-glow"></div>
+                        </div>
+                        <div className="career-card">
+                            <div className="career-icon-wrapper">
                                 <span className="career-icon">🧭</span>
                             </div>
                             <h4>Career Guidance</h4>
-                            <p>Professional counseling for career success</p>
+                            <p>Expert counseling and placement support to connect students with employers.</p>
                             <div className="career-hover-glow"></div>
                         </div>
                         <div className="career-card">
                             <div className="career-icon-wrapper">
-                                <span className="career-icon">📋</span>
+                                <span className="career-icon">💡</span>
                             </div>
-                            <h4>Placement Assistance</h4>
-                            <p>Dedicated support for job placements</p>
-                            <div className="career-hover-glow"></div>
-                        </div>
-                        <div className="career-card">
-                            <div className="career-icon-wrapper">
-                                <span className="career-icon">💼</span>
-                            </div>
-                            <h4>Internships</h4>
-                            <p>Real-world experience opportunities</p>
-                            <div className="career-hover-glow"></div>
-                        </div>
-                        <div className="career-card">
-                            <div className="career-icon-wrapper">
-                                <span className="career-icon">🔗</span>
-                            </div>
-                            <h4>Apprenticeships</h4>
-                            <p>On-the-job training programmes</p>
-                            <div className="career-hover-glow"></div>
-                        </div>
-                        <div className="career-card">
-                            <div className="career-icon-wrapper">
-                                <span className="career-icon">🏭</span>
-                            </div>
-                            <h4>Industry Exposure</h4>
-                            <p>Skill development in real environments</p>
+                            <h4>Entrepreneurship</h4>
+                            <p>Encouraging self-employment through startup guidance and business support.</p>
                             <div className="career-hover-glow"></div>
                         </div>
                     </div>

@@ -88,59 +88,77 @@ export default function CareerPlacementPage() {
 
         <div className="max-w-7xl mx-auto px-4">
 
-          <div className="grid lg:grid-cols-2 gap-12 items-center">
+          <div className="grid lg:grid-cols-2 gap-12 items-start">
 
             <div>
-
               <span className="text-[#13A090] uppercase tracking-widest font-semibold text-sm">
                 Career Development
               </span>
 
               <h2 className="font-serif text-4xl font-bold text-[#0F2347] mt-3 mb-6">
-                Empowering Students for Successful Careers
+                Career & Placement Cell
               </h2>
 
-              <p className="text-gray-600 text-lg leading-8">
-                Our Career Development & Placement Cell works continuously to
-                bridge the gap between education and employment by providing
-                professional guidance, industry exposure, practical training,
-                and placement assistance. Through strategic partnerships with
-                leading companies and organizations, we prepare students for
-                successful careers in today's competitive job market.
+              <p className="text-gray-600 text-lg leading-8 mb-6">
+                The Career & Placement Cell of NCVSTC is dedicated to preparing students for successful careers through industry-oriented training, professional guidance, and placement support. The cell conducts structured training programmes focused on employability skills, communication, corporate etiquette, interview preparation, personality development, and workplace readiness to bridge the gap between education and industry expectations.
+              </p>
+              
+              <p className="text-gray-600 text-lg leading-8 mb-8">
+                NCVSTC has established strong industrial tie-ups and active engagement with leading manufacturing companies, service industries, corporate organizations, and business sectors across India. These collaborations enable the council to provide career guidance, industry exposure, internship opportunities, and placement assistance for trained candidates in various sectors.
               </p>
 
+              <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-4">Key Objectives</h3>
+              <ul className="list-disc pl-5 mb-8 text-gray-600 space-y-2">
+                <li>Prepare students with industry-relevant professional and employability skills</li>
+                <li>Provide career counseling and placement-oriented training support</li>
+                <li>Connect students with employment opportunities through industrial partnerships</li>
+                <li>Develop confidence, professionalism, and workplace readiness among candidates</li>
+              </ul>
+
+              <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-4">Placement Assistance Offered</h3>
+              <ul className="list-disc pl-5 mb-8 text-gray-600 space-y-2">
+                <li>Career guidance and placement preparation for all eligible candidates</li>
+                <li>Interview scheduling and employer connections based on candidate skill levels</li>
+                <li>Coordination with industries and recruiters until successful placement</li>
+                <li>Support in securing suitable employment opportunities and career growth</li>
+              </ul>
             </div>
 
-            <div className="grid grid-cols-2 gap-6">
-
-              <div className="bg-white rounded-3xl p-8 shadow-lg border">
-                <h3 className="text-5xl font-bold text-[#13A090]">100+</h3>
-                <p className="mt-3 text-gray-600">
-                  Industry Partners
+            <div>
+              <div className="bg-white rounded-3xl p-8 shadow-lg border border-slate-200 mb-8">
+                <div className="flex items-center gap-4 mb-6">
+                  <div className="w-14 h-14 bg-[#EEF4FF] text-[#2A75C3] rounded-2xl flex items-center justify-center text-2xl">
+                    💡
+                  </div>
+                  <h3 className="font-serif text-2xl font-bold text-[#0F2347]">
+                    Entrepreneurship Development Cell
+                  </h3>
+                </div>
+                
+                <p className="text-gray-600 mb-4">
+                  The Entrepreneurship Development Cell encourages students to become self-employed professionals, innovators, and future entrepreneurs by promoting entrepreneurial thinking, business awareness, and leadership skills.
                 </p>
-              </div>
-
-              <div className="bg-white rounded-3xl p-8 shadow-lg border">
-                <h3 className="text-5xl font-bold text-[#13A090]">95%</h3>
-                <p className="mt-3 text-gray-600">
-                  Placement Assistance
+                
+                <p className="text-gray-600 mb-6">
+                  The cell organizes awareness programmes, industrial interactions, project guidance sessions, and business development activities that help students understand startup opportunities, project planning, funding support, and market-oriented business practices.
                 </p>
-              </div>
 
-              <div className="bg-white rounded-3xl p-8 shadow-lg border">
-                <h3 className="text-5xl font-bold text-[#13A090]">50+</h3>
-                <p className="mt-3 text-gray-600">
-                  Skill Programmes
-                </p>
-              </div>
+                <h4 className="font-bold text-[#0F2347] mb-2">Key Objectives</h4>
+                <ul className="list-disc pl-5 mb-6 text-gray-600 text-sm space-y-1">
+                  <li>Promote entrepreneurship and self-employment opportunities</li>
+                  <li>Guide students in project preparation and business planning</li>
+                  <li>Create awareness about financial assistance, subsidies, and bank funding</li>
+                  <li>Facilitate interaction with successful entrepreneurs and industry experts</li>
+                </ul>
 
-              <div className="bg-white rounded-3xl p-8 shadow-lg border">
-                <h3 className="text-5xl font-bold text-[#13A090]">24×7</h3>
-                <p className="mt-3 text-gray-600">
-                  Career Support
-                </p>
+                <h4 className="font-bold text-[#0F2347] mb-2">Main Functions</h4>
+                <ul className="list-disc pl-5 text-gray-600 text-sm space-y-1">
+                  <li>Organize entrepreneurship awareness and motivational programmes</li>
+                  <li>Conduct interactive sessions with successful business leaders</li>
+                  <li>Provide guidance on project finance, subsidies, and startup support</li>
+                  <li>Arrange industrial visits and industry interaction programmes for practical exposure</li>
+                </ul>
               </div>
-
             </div>
 
           </div>

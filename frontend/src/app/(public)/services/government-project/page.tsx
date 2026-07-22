@@ -29,28 +29,42 @@ export default function GovernmentProjectPage() {
                             <div className="w-20 h-20 bg-[rgba(232,146,10,0.2)] rounded-2xl flex items-center justify-center mb-6">
                                 <span className="text-4xl">🏛️</span>
                             </div>
-                            <h3 className="font-serif text-3xl font-bold text-white mb-6">Skill Development Initiative Scheme</h3>
-                            <p className="text-white/70 leading-relaxed mb-8 text-lg">
-                                NCVSTC actively participates in government-led skill development projects, partnering with various ministries to implement vocational training programs across the nation. Our projects focus on empowering marginalized communities and creating employment opportunities through targeted skill training.
+                            <h3 className="font-serif text-3xl font-bold text-white mb-6">Skill Development Initiative Programs</h3>
+                            <p className="text-white/70 leading-relaxed mb-4 text-lg">
+                                NCVSTC actively collaborates with various Government of India ministries, departments, and national skill missions to implement vocational education, employment generation, and entrepreneurship development programmes across the country.
                             </p>
-                            <div className="flex flex-wrap gap-3 mt-4">
-                                {['MSME', 'DGT', 'Ministry of Labour', 'NITI Aayog'].map((item, i) => (
+                            <p className="text-white/70 leading-relaxed mb-8 text-lg">
+                                Our initiatives are focused on empowering youth, women, rural communities, minorities, and economically weaker sections through industry-oriented skill training and livelihood opportunities.
+                            </p>
+
+                            <h4 className="text-white font-bold mb-4 text-xl">Associated Ministries & National Bodies</h4>
+                            <div className="flex flex-wrap gap-3 mt-4 mb-8">
+                                {['Ministry of Skill Development & Entrepreneurship (MSDE)', 'Ministry of MSME', 'Directorate General of Training (DGT)', 'Ministry of Labour & Employment', 'NITI Aayog'].map((item, i) => (
                                     <span key={i} className="px-4 py-2 bg-white/10 border border-white/20 rounded-full text-white font-medium text-sm">
                                         {item}
                                     </span>
                                 ))}
                             </div>
+
+                            <h4 className="text-white font-bold mb-4 text-xl">Our Objective</h4>
+                            <p className="text-white/70 leading-relaxed mb-4 text-lg">
+                                To create a skilled, employable, and self-reliant workforce by delivering quality vocational education, practical training, certification, and placement support aligned with national skill development goals.
+                            </p>
                         </div>
                         <div className="bg-white/5 rounded-2xl p-8 border border-white/10 shadow-inner">
-                            <h4 className="text-white font-bold mb-6 text-xl border-b border-white/10 pb-4">Current Active Projects</h4>
+                            <h4 className="text-white font-bold mb-6 text-xl border-b border-white/10 pb-4">Major Skill Development Projects</h4>
                             <ul className="space-y-4">
                                 {[
-                                    'Rural Skill Development Program',
+                                    'DDU-GKY – Deen Dayal Upadhyaya Grameen Kaushalya Yojana',
+                                    'PMKVY – Pradhan Mantri Kaushal Vikas Yojana',
+                                    'NULM – National Urban Livelihoods Mission',
+                                    'Rural Skill Development Programmes',
                                     'Women Empowerment through Vocational Training',
-                                    'Youth Entrepreneurship Development',
-                                    'Apprenticeship Training (NCVT MIS)'
+                                    'Youth Entrepreneurship Development Initiatives',
+                                    'Apprenticeship Training Programmes (NCVT MIS)',
+                                    'Industry-Integrated Placement Linked Training'
                                 ].map((project, i) => (
-                                    <li key={i} className="flex items-center gap-4 text-white/90 text-md">
+                                    <li key={i} className="flex items-center gap-4 text-white/90 text-md leading-snug">
                                         <div className="w-8 h-8 rounded-full bg-[#E8920A]/20 flex items-center justify-center shrink-0">
                                             <span className="w-2 h-2 bg-[#E8920A] rounded-full"></span>
                                         </div>
@@ -58,9 +72,6 @@ export default function GovernmentProjectPage() {
                                     </li>
                                 ))}
                             </ul>
-                            <div className="mt-8 pt-6 border-t border-white/10 text-center">
-                                <span className="text-white/40 text-sm italic">[ Government Project Image Placeholder ]</span>
-                            </div>
                         </div>
                     </div>
                 </div>

@@ -42,14 +42,36 @@ export default function AboutUsPage() {
                         </h2>
                         <div className="prose prose-lg text-[#4A5568]">
                             <p className="mb-4">
-                                <strong className="text-[#0F2347]">NCVSTC</strong> Vocational Education Council works towards creating a skilled, employable, and self-reliant generation through quality vocational education and professional development initiatives.
+                                <strong className="text-[#0F2347]">NCVSTC</strong> – National Council for Vocational Skill Technology Council is an autonomous vocational education and skill development organization committed to creating industry-ready professionals through quality education, practical training, and career-oriented programmes.
                             </p>
                             <p className="mb-4">
-                                The council supports skill enhancement, entrepreneurship, and employment-focused training programmes aligned with evolving industry requirements. Through modern teaching methodologies and technology-enabled learning, NCVSTC ensures students gain practical knowledge, professional competence, and career readiness.
+                                Established with the vision of strengthening vocational and technical education in India, NCVSTC works towards bridging the gap between academic learning and employability skills. The council promotes accessible, affordable, and skill-based education for students from rural, remote, and economically weaker communities.
                             </p>
-                            <p>
-                                Our certification and verification systems are designed to support educational progression, professional recognition, and employment opportunities in private sectors, multinational companies, industries, and international employment environments.
+                            <p className="mb-4">
+                                NCVSTC is associated with various national skill development initiatives and focuses on empowering youth through modern vocational programmes, professional certifications, entrepreneurship development, and technology-driven learning systems. The organization continuously works to introduce innovative education methodologies aligned with current industry standards and workforce demands.
                             </p>
+                            <p className="mb-8">
+                                With a strong network of study centres, training institutions, and academic partners across the country, NCVSTC has successfully contributed to building a skilled workforce equipped for emerging career opportunities in India and abroad.
+                            </p>
+                            <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-4">Our Educational Perspective</h3>
+                            <p className="mb-4">
+                                India's education system has evolved from traditional knowledge-sharing methods to structured modern learning models. However, the growing demand for employability and practical skills has created the need for a more industry-focused education system.
+                            </p>
+                            <p className="mb-8">
+                                NCVSTC believes that skill-based and vocational education is the key to sustainable career development and national growth. By integrating practical exposure, technology, innovation, and professional training, the council aims to prepare students for real-world employment, self-employment, and entrepreneurship opportunities.
+                            </p>
+                            <h3 className="font-serif text-2xl font-bold text-[#0F2347] mb-4">Our Commitment</h3>
+                            <p className="mb-2">NCVSTC is dedicated to:</p>
+                            <ul className="list-disc pl-5 mb-4 space-y-2">
+                                <li>Promoting quality vocational and technical education</li>
+                                <li>Enhancing employability through practical skill training</li>
+                                <li>Supporting lifelong learning and professional development</li>
+                                <li>Encouraging innovation, entrepreneurship, and industry collaboration</li>
+                                <li>Providing equal educational opportunities for all sections of society</li>
+                            </ul>
+                            <blockquote className="border-l-4 border-[#E8920A] pl-4 italic text-[#0F7B6C] font-semibold">
+                                "Skill Education is the Foundation for Self-Reliance and Sustainable Growth."
+                            </blockquote>
                         </div>
                     </div>
 
